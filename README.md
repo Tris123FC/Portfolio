@@ -20,7 +20,7 @@
 
 **Motivation:** The electric vehicle (EV) market is rapidly evolving, with significant implications for the automotive industry and environmental policies. This project involved analyzing the current state of the electric vehicle market in 2024, including key trends and market dynamics. Additionally, projections for the EV market in 2035 were developed to understand future growth trajectories and potential challenges. The goal was to provide insights that could guide strategic planning and investment decisions in the EV sector.
 
-**Link to Project:** [Analysis of 2024 Electric Vehicle Markets with Projections for 2035](link-to-project)
+**Link to Project:** [Analysis of 2024 Electric Vehicle Markets with Projections for 2035]((https://github.com/Tris123FC/Portfolio/blob/main/4_ev_analysis/README.md)
 
 
 ## 5. Exploration of Movie Industry Data Up to 2020
@@ -36,4 +36,4 @@ resid=C88EA4021B131A70!s1e1643b22998488f8c5d11ce84ce22e0&cid=c88ea4021b131a70&mi
 
 **Motivation:** The allocation of advertising budgets across different media channels—such as TV, radio, and newspapers—plays a critical role in shaping marketing strategies and maximizing ROI. This project explores ad revenue data to understand how investments are distributed among these media streams and their relative performance. By analyzing historical revenue trends and patterns, the project aims to provide insights that can help advertisers and media planners make informed decisions about future ad spend.
 
-
+**Link to Data Mining File**  [Analysis of Ad Media Streams](https://github.com/Tris123FC/Portfolio/blob/main/6_ad_analysis/data_exploration.ipynb)
