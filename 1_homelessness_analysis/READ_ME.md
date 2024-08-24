@@ -7,5 +7,8 @@
 - **Data Source:**
   [UK Government Statistical Data on Homelessness](https://www.gov.uk/government/statistical-data-sets/live-tables-on-homelessness)
 
-![Project Screenshot](images/dashboard.png) alt="Sample Image" width="100"/>
+![Project Screenshot](images/dashboard.png)
 
+- **There is significant different in homlessness rates across with the North-East having the highest rate at 0.22%**
+
+![Project Screenshot](images/bar_chart.png)
