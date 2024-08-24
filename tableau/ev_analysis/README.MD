@@ -13,6 +13,6 @@
 ## Resources
 
 - **OneDrive Link:**
-  [Access Excel File](https://public.tableau.com/app/profile/tristan.cross/viz/IEAGlobalEVData2024/EVSalesAccordingtoIEA)
+  [Access Tableau Dashboard](https://public.tableau.com/app/profile/tristan.cross/viz/IEAGlobalEVData2024/EVSalesAccordingtoIEA)
 - **Data Source:**
-  [UK Government Statistical Data on Homelessness](https://www.gov.uk/government/statistical-data-sets/live-tables-on-homelessness)
+  [https://www.iea.org/data-and-statistics/data-product/global-ev-outlook-2024#global-ev-data)
