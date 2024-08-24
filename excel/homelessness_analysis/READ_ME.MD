@@ -1,8 +1,11 @@
 Analysis Homlessness Relief Figures for 2024:
+
 _time-series analysis of relief spending relative to house procurement.
+
 _Geographical analysis of homelessness figures and relief spending across UK regions.
 
 Key Insights:
+
 Spending on homeless relief has increased year on year due to inflation.
 There is a significant difference his homeless between regions most likely due to historical inequality between northern and southern regions.
 
