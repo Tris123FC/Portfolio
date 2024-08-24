@@ -20,7 +20,7 @@
 
 **Motivation:** The electric vehicle (EV) market is rapidly evolving, with significant implications for the automotive industry and environmental policies. This project involved analyzing the current state of the electric vehicle market in 2024, including key trends and market dynamics. Additionally, projections for the EV market in 2035 were developed to understand future growth trajectories and potential challenges. The goal was to provide insights that could guide strategic planning and investment decisions in the EV sector.
 
-**Link to Project:** [Analysis of 2024 Electric Vehicle Markets with Projections for 2035]((https://github.com/Tris123FC/Portfolio/blob/main/4_ev_analysis/README.md)
+**Link to Project:** [Analysis of 2024 Electric Vehicle Markets with Projections for 2035](https://github.com/Tris123FC/Portfolio/blob/main/4_ev_analysis/README.md)
 
 
 ## 5. Exploration of Movie Industry Data Up to 2020
