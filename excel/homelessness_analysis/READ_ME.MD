@@ -1,4 +1,5 @@
 Analysis Homlessness Relief Figures for 2024:
+
 Content:
 
 _time-series analysis of relief spending relative to house procurement.
