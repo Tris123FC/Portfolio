@@ -9,10 +9,3 @@
 
 ![Project Screenshot](images/dashboard.png)
 
-- **There are significant differences across regions. The North-East has the highest rate (0.22%)**
-
-![Project Screenshot](images/bar_chart.png)
-
-- **London assessed owed relief spending was much larger than other areas. This is most likely due to difference in populations.**
-
-![Project Screenshot](images/tree_map.png)
