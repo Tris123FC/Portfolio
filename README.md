@@ -16,15 +16,12 @@
 
 **Link to Project:** [A/B Test on Landing Page Conversion Rates](https://github.com/Tris123FC/Portfolio/blob/main/ab_test/page_conversion.ipynb))
 
-Here's a Markdown entry for a project analyzing the 2024 electric vehicle markets with projections for 2035:
-
 ## 4. Analysis of 2024 Electric Vehicle Markets with Projections for 2035
 
 **Motivation:** The electric vehicle (EV) market is rapidly evolving, with significant implications for the automotive industry and environmental policies. This project involved analyzing the current state of the electric vehicle market in 2024, including key trends and market dynamics. Additionally, projections for the EV market in 2035 were developed to understand future growth trajectories and potential challenges. The goal was to provide insights that could guide strategic planning and investment decisions in the EV sector.
 
 **Link to Project:** [Analysis of 2024 Electric Vehicle Markets with Projections for 2035](link-to-project)
 
-Here's a Markdown entry for a project exploring movie industry data up to 2020:
 
 ## 5. Exploration of Movie Industry Data Up to 2020
 
@@ -32,6 +29,6 @@ Here's a Markdown entry for a project exploring movie industry data up to 2020:
 
 **Link to Excel:** [Exploration of Movie Industry Data Up to 2020](https://onedrive.live.com/personal/c88ea4021b131a70/_layouts/15/Doc.aspx?resid=C88EA4021B131A70!s1e1643b22998488f8c5d11ce84ce22e0&cid=c88ea4021b131a70&migratedtospo=true&app=Excel)))
 
-**Link to Data Mining File*** [Extracting the important data Python]([https://github.com/Tris123FC/Portfolio/blob/main/movie_analysis/data_mining.ipynb)
+**Link to Data Mining File** [Extracting the important data Python]([https://github.com/Tris123FC/Portfolio/blob/main/movie_analysis/data_mining.ipynb)
 
 
