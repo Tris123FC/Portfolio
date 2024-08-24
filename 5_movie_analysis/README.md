@@ -10,3 +10,5 @@
 **Link to Data Mining File:** 
 
 [Data Mining with Python](https://github.com/Tris123FC/Portfolio/blob/main/movie_analysis/data_mining.ipynb)
+
+![Project Screenshot](images/dashboard.png)
