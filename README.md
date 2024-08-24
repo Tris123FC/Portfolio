@@ -29,6 +29,6 @@
 
 **Link to Excel:** [Exploration of Movie Industry Data Up to 2020](https://onedrive.live.com/personal/c88ea4021b131a70/_layouts/15/Doc.aspx?resid=C88EA4021B131A70!s1e1643b22998488f8c5d11ce84ce22e0&cid=c88ea4021b131a70&migratedtospo=true&app=Excel)))
 
-**Link to Data Mining File** [Extracting the important data Python]([https://github.com/Tris123FC/Portfolio/blob/main/movie_analysis/data_mining.ipynb)
+**Link to Data Mining File** [Extracting the important data Python](https://github.com/Tris123FC/Portfolio/blob/main/movie_analysis/data_mining.ipynb)
 
 
