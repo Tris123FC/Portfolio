@@ -7,8 +7,7 @@
 - **Data Source:**
   [UK Government Statistical Data on Homelessness](https://www.gov.uk/government/statistical-data-sets/live-tables-on-homelessness)
 
-
-1. ![Project Screenshot](images/dashboard.png)
+<img src=![Project Screenshot](images/dashboard.png) alt="Sample Image" width="400"/>
 2. ![Project Screenshot](images/Screenshot 2024-08-24 at 16.13.31.png)
 3. ![Project Screenshot](images/Screenshot 2024-08-24 at 16.15.11.png)
 4. ![Project Screenshot](images/Screenshot 2024-08-24 at 16.14.46.png)
