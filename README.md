@@ -27,10 +27,10 @@
 
 **Motivation:** The movie industry is a dynamic field influenced by various factors such as box office performance, genre trends, and production budgets. This project involved an in-depth exploration of movie industry data up to 2020, focusing on key metrics and trends such as revenue, audience ratings, and genre popularity. The goal was to uncover patterns and insights that could enhance understanding of industry dynamics and inform future predictions.
 
-**Link to Project* [Data Mining with Python](https://github.com/Tris123FC/Portfolio/blob/main/5_movie_analysis/README.md)
+**Link to Project:** [Data Mining with Python](https://github.com/Tris123FC/Portfolio/blob/main/5_movie_analysis/README.md)
 
 ## 6. Analysis of Ad Revenue Across Media Streams
 
 **Motivation:** The allocation of advertising budgets across different media channels—such as TV, radio, and newspapers—plays a critical role in shaping marketing strategies and maximizing ROI. This project explores ad revenue data to understand how investments are distributed among these media streams and their relative performance. By analyzing historical revenue trends and patterns, the project aims to provide insights that can help advertisers and media planners make informed decisions about future ad spend.
 
-**Link to Project**  [Analysis of Ad Media Streams](https://github.com/Tris123FC/Portfolio/blob/main/6_ad_analysis/data_exploration.ipynb)
+**Link to Project:**  [Analysis of Ad Media Streams](https://github.com/Tris123FC/Portfolio/blob/main/6_ad_analysis/data_exploration.ipynb)
