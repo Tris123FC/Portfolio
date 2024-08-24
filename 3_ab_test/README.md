@@ -4,3 +4,4 @@
 This project involved conducting an A/B test to evaluate whether there was a significant difference in conversion rates between 
 two different landing pages. The goal was to determine which page design led to higher user conversions and to provide data-driven 
 recommendations for improving page effectiveness.
+![Project Screenshot](images/screenshots.png)
