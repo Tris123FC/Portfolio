@@ -9,6 +9,6 @@
 
 ![Project Screenshot](images/dashboard.png)
 
-- **There is significant different in homlessness rates across with the North-East having the highest rate at 0.22%**
+- **There are significant differences across regions. The North-East has the highest rate (0.22%)**
 
 ![Project Screenshot](images/bar_chart.png)
