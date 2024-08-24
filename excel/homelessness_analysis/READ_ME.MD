@@ -2,7 +2,7 @@ Analysis Homlessness Relief Figures for 2024:
 
 Content:
 
-1. time-series analysis of relief spending relative to house procurement.
+1. Time-series analysis of relief spending relative to house procurement.
 
 2. Geographical analysis of homelessness figures and relief spending across UK regions.
 
