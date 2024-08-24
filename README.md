@@ -14,8 +14,8 @@
 
 **Motivation:** Conversion rates are crucial for optimizing user engagement and achieving business goals. This project involved conducting an A/B test to evaluate whether there was a significant difference in conversion rates between two different landing pages. The goal was to determine which page design led to higher user conversions and to provide data-driven recommendations for improving page effectiveness.
 
-**Link to Project:** [A/B Test on Landing Page Conversion Rates](https://github.com/Tris123FC/Portfolio/blob/main/ab_test/page_conversion.ipynb))
-
+**Link to Project:** [A/B Test on Landing Page Conversion Rates]
+(https://github.com/Tris123FC/Portfolio/blob/main/3_ab_test/README.md)
 ## 4. Analysis of 2024 Electric Vehicle Markets with Projections for 2035
 
 **Motivation:** The electric vehicle (EV) market is rapidly evolving, with significant implications for the automotive industry and environmental policies. This project involved analyzing the current state of the electric vehicle market in 2024, including key trends and market dynamics. Additionally, projections for the EV market in 2035 were developed to understand future growth trajectories and potential challenges. The goal was to provide insights that could guide strategic planning and investment decisions in the EV sector.
