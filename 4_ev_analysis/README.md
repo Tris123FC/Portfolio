@@ -9,3 +9,5 @@
   [Access Tableau Dashboard](https://public.tableau.com/app/profile/tristan.cross/viz/IEAGlobalEVData2024/EVSalesAccordingtoIEA)
 - **Data Source:**
   [IEA Data on EV Market](https://www.iea.org/data-and-statistics/data-product/global-ev-outlook-2024#global-ev-data)
+
+![Project Screenshot](images/dashboard.png)
