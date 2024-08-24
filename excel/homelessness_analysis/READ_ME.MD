@@ -19,11 +19,3 @@
 - **Data Source:**
   [UK Government Statistical Data on Homelessness](https://www.gov.uk/government/statistical-data-sets/live-tables-on-homelessness)
 ```
-
-### Explanation:
-- **Headers (`#`, `##`)** are used to structure the document, making it easy to navigate.
-- **Bold text (`**`)** emphasizes key insights.
-- **Links** are formatted to allow users to click directly to access the OneDrive and data source.
-- The file is formatted for readability and clarity.
-
-Let me know if you need further adjustments!
