@@ -2,7 +2,7 @@
 
 ## 4. Analysis of 2024 Electric Vehicle Markets with Projections for 2035
 
-**Motivation:** The electric vehicle (EV) market is rapidly evolving, with significant implications for the automotive industry and environmental policies. This project involved analyzing the current state of the electric vehicle market in 2024, including key trends and market dynamics. Additionally, projections for the EV market in 2035 were developed to understand future growth trajectories and potential challenges. The goal was to provide insights that could guide strategic planning and investment decisions in the EV sector.
+**Motivation:** Understanding and mastering the vocabulary for the HSK5 (Hànyǔ Shuǐpíng Kǎoshì Level 5) Chinese proficiency exam is crucial for learners aiming to reach advanced language skills. This analysis involved examining the target vocabulary of the HSK5 level and assessing their frequency in both intermediate and advanced texts. By analyzing the occurrence of these words in different text complexities, the project aimed to uncover trends in vocabulary usage, determine which words are most critical for achieving fluency, and provide insights for more effective language learning strategies. The goal was to guide learners and educators in optimizing study plans and ensuring better preparation for real-world language use.
 ## Resources
 
 - **OneDrive Link:**
