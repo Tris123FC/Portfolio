@@ -4,10 +4,9 @@
 **Motivation:** Homelessness is a pressing social issue, and I wanted to understand how government spending impacts homelessness rates across different regions. This project involves a time-series analysis of relief spending relative to housing procurement and a geographical analysis of homelessness figures across the UK. The goal was to identify trends and disparities that could inform policy decisions.  
 **Link to Project:** [Analysis of Homelessness Relief Figures](https://github.com/Tris123FC/Portfolio/blob/main/1_homelessness_analysis/README.md)
 
-## 2. Classification of Plant Growth Using Machine Learning
+## 2. Analysis of Tech Sector Stock Market: 2014-2024
 
-**Motivation:** Understanding plant growth is essential for improving agricultural practices and ensuring crop yield. This project involved developing a machine learning model to classify plant growth stages based on various features such as soil quality, water availability, and environmental conditions. The aim was to provide insights that could enhance farming strategies and contribute to more efficient plant cultivation.
-
+**Motivation:** The tech industry plays a crucial role in the global economy, and I wanted to explore how market trends impact the stock prices of major tech companies like Facebook, Google, Amazon, and Microsoft. This project involves a detailed analysis of stock price movements over time, with a focus on identifying patterns and factors influencing these trend. I then proceed to test the predictions of an LSTM machine learning model on future stock prices by comparing the prediction with the actual values of stock prices. The goal is to provide insights that could guide investment decisions and a deeper understanding of the tech market landscape.
 **Link to Project:** [Analyses of Tech Firms' Stock Market Stock Prices](https://github.com/Tris123FC/Portfolio/blob/main/2_stock_analysis/README.md))
 
 ## 3. A/B Test on Landing Page Conversion Rates
