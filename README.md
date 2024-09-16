@@ -8,7 +8,7 @@
 
 **Motivation:** Understanding plant growth is essential for improving agricultural practices and ensuring crop yield. This project involved developing a machine learning model to classify plant growth stages based on various features such as soil quality, water availability, and environmental conditions. The aim was to provide insights that could enhance farming strategies and contribute to more efficient plant cultivation.
 
-**Link to Project:** [Classification of Plant Growth Using Machine Learning](https://github.com/Tris123FC/Portfolio/blob/main/2_plant_analysis/README.md)
+**Link to Project:** [Analyses of Tech Firms' Stock Market Stock Prices](https://github.com/Tris123FC/Portfolio/blob/main/2_stock_analysis/README.md))
 
 ## 3. A/B Test on Landing Page Conversion Rates
 
