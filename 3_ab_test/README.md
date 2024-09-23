@@ -6,8 +6,6 @@ two different landing pages. The goal was to determine which page design led to 
 recommendations for improving page effectiveness.
 
 - **Python File Link:**
-  [A/B-Testing] (https://github.com/Tris123FC/Portfolio/blob/main/3_ab_test/ab-testing-new-page-conversion.ipynb)
+  [A/B-Testing](https://github.com/Tris123FC/Portfolio/blob/main/3_ab_test/ab-testing-new-page-conversion.ipynb)
 
 ![Project Screenshot](images/screenshots.png)
-
-https://github.com/Tris123FC/Portfolio/blob/main/3_ab_test/ab-testing-new-page-conversion.ipynb
