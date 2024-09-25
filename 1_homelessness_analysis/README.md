@@ -48,5 +48,7 @@ Looking at the median house price to median residence earning ratio, we can see 
 
 <img width="1000" alt="image" src="https://github.com/user-attachments/assets/249b615a-c2a6-4fd4-80bf-ab87b8998df9">
 
+A high ratio would suggest the price is higher relative to earnings, meaning housing is less affordable. The North East has the lowest ratio suggesting housing is more affordable than other regions.
+
 
 
