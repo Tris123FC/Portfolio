@@ -7,7 +7,11 @@ Homelessness is a pressing social issue, and I wanted to understand how governme
   [Access Excel File](https://onedrive.live.com/personal/c88ea4021b131a70/_layouts/15/Doc.aspx?resid=C88EA4021B131A70!s4ba9686b3553450bb4dc9e1c5d18dffe&cid=c88ea4021b131a70&migratedtospo=true&app=Excel)
 
 - **Data Source:**
+  
   [UK GOV - Statutory Homleness](https://www.gov.uk/government/statistical-data-sets/live-tables-on-homelessness)
+  [ONS GOV UK - Inflation and Price Indices](https://www.ons.gov.uk/economy/inflationandpriceindices/articles/costoflivinginsights/food)
+  [Nationwide - House Price Index](https://www.nationwidehousepriceindex.co.uk/resources/f/uk-data-series)
+
   
 
 ## **Project Snapshot:**
