@@ -47,7 +47,8 @@ We can see that the North-East is most affected by homelessness. This is likely 
 Looking at the median house price to median residence earning ratio, we can see that this is not directly due to housing affordability.
 A high ratio would suggest the price is higher relative to earnings, meaning housing is less affordable. 
 
-<img width="1000" alt="image" src="https://github.com/user-attachments/assets/249b615a-c2a6-4fd4-80bf-ab87b8998df9">
+<img width="1000" alt="image" src="https://github.com/user-attachments/assets/d6316358-4619-45e0-8026-57e5b01eb595">
+
 
 The North East has the lowest ratio which tells us there housing is more affordable than in other regions. This suggests the higher homeless rate might be more due to social reasons such as access to social care, family support, or education.
 
