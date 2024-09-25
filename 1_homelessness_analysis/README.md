@@ -74,7 +74,7 @@ We selected the assessed total owed relief measure to represent government spend
 
 <img width="800" alt="image" src="https://github.com/user-attachments/assets/2fa174af-b927-4527-ac48-3d136a009823">
 
-London spent the most on relief and prevention with 22% of total spending. The differences in spending most likely due to population and cost of living disparities across regions.
+London spent the most on relief and prevention with around 21% of total spending. The differences in spending most likely due to population and cost of living disparities across regions.
 
 <img width="1000" alt="image" src="https://github.com/user-attachments/assets/acbb7f11-2246-4984-916b-1bdaa6a029a3">
 
