@@ -50,7 +50,8 @@ We use this measure as an estimate of government spending on homlessness previen
 
 By analysing the regional data, we can get a quick glimpse at what areas are most affected by homelessness.
 
-<img width="1000" alt="image" src="https://github.com/user-attachments/assets/5fdc617a-47e6-4d07-ae37-782fe5f1e187">
+<img width="1000" alt="image" src="https://github.com/user-attachments/assets/a619b087-1353-4cb9-b63e-4f77e2d1a294">
+
 
 source: [UK GOV - Statutory Homleness - 2024](https://www.gov.uk/government/statistical-data-sets/live-tables-on-homelessness)
 
