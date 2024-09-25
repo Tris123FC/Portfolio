@@ -107,16 +107,40 @@ Looking at the demographic distribution through a pie chart, gives us a clearer 
 
 <img width="800" alt="image" src="https://github.com/user-attachments/assets/a86d9459-da7b-40db-985f-996298736395">
 
-source:[UK GOV - Statutory Homleness - 2024](https://www.gov.uk/government/statistical-data-sets/live-tables-on-homelessness)
+source: [UK GOV - Statutory Homleness - 2024](https://www.gov.uk/government/statistical-data-sets/live-tables-on-homelessness)
 
-As we see from the chart, the population most at risk is between the ages of 25 and 44. This is probably the result of unemployment higher rates among these age groups which reduces long run income stability and increases the risk
-of being homeless.
+As we see from the chart, the population most at risk is between the ages of 25 and 44. This is probably the result of unemployment higher rates among these age groups which reduces long run income stability 
+and increases the risk of being homeless.
 
 A graph from the Website Statista, confirms the assumption of higher unemployment rates among those groups
 
 <img width="1000" alt="image" src="https://github.com/user-attachments/assets/824b7f20-e66a-40f9-a99e-fa781d4cd860">
 
-source:[Statista - Unemployement in the UK by age group](https://www.statista.com/statistics/974421/unemployment-rate-uk-by-age/)
+source: [Statista - Unemployement in the UK by age group](https://www.statista.com/statistics/974421/unemployment-rate-uk-by-age/)
+
+Unemployment among these groups might be explained by:
+- poor economic performance, leaving employers unwilling to invest in new hires.
+- a shift of work place culture towards remote work, with reduced demand for office based jobs.
+- less opportunities for apprenticeship and traineeship as people work more and more from home.
+
+## **Government initiatives to assist people at risk**
+
+According to government policy, homelessness relief is the action taken to help resolve homelessness. Where an eligible applicant seeks help from the local housing
+authority they they are owed the relief duty. The local authorities have to stake steps in order to prevent homelessness, or provide relief duty otherwise.
+Steps might include the provision of a rent deposit, debt advice or finding alternative housing arrangements.
+
+The prevention duty lasts for up to 56 days, and is available to all those who are at threat of being homeless.
+
+Those who have a priority need  are provided with interim accommodation whilst the LHA carries out the reasonable steps.
+
+source: [Homelessness Reduction Bill - Fact Sheet](https://assets.publishing.service.gov.uk/media/5a8151bae5274a2e8ab53553/170203_-_Policy_Fact_Sheets_-_Relief.pdf)
+
+One of the key initiatives is procuring affordable houses to those who are at risk.
+
+Below is a chart which show how government spending and house procurements efforts evolved:
+
+<img width="1000" alt="image" src="https://github.com/user-attachments/assets/f3e07ee9-8b69-4b90-98a0-5036405e809c">
+
 
 
 
