@@ -83,6 +83,7 @@ source: [ONS GOV UK - Estimate of Population for England and Wales - 2024](https
 
 <img width="1000" alt="image" src="https://github.com/user-attachments/assets/77ca06cb-cb35-4263-8123-56f9ecb7c343">
 
+As we can see from the chart the London has a population of around 9 million, comparable to the South East. Whilst, other regions are less populated, the North East holding a population of 2 million.
 
 source: [ONS GOV UK - Private Rent and House Prices - 2024](https://www.ons.gov.uk/economy/inflationandpriceindices/bulletins/privaterentandhousepricesuk/august2024)
 
