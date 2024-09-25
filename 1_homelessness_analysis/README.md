@@ -32,7 +32,8 @@ UK house prices reached around £262,000 in 2024 compared to 181,000 in 2007.
 
 source: [Nationwide - House Price Index - 2024](https://www.nationwidehousepriceindex.co.uk/resources/f/uk-data-series)
 
-<img width="1000" alt="image" src="https://github.com/user-attachments/assets/8ac0a1a9-64e0-4812-9548-12554f7efcd3">
+<img width="1000" alt="image" src="https://github.com/user-attachments/assets/f51a75eb-b88c-472f-9bf0-200b492bf6d4">
+
 
 
 January 2024 saw an inflation rate of 7%. 
