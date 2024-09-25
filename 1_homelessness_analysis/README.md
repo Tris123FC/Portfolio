@@ -35,5 +35,6 @@ But what about the people who are the most at risk?
 ## **Homelessness in the UK**
 A 2024 report by the government dating back to August 2024 provides data on owed relief and homeless figures from the second quarter of 2018 to the first quarter of 2024.<br>
 
-Before we go further into the report, it is important to know that owed relief is the money assessed owed by the government to UK residents who are threatened with homelessnessor currently homeless.<br>
+Before we go further into the report, it is important to know that owed relief is the money assessed owed by the government to UK residents who are threatened with homelessnessor currently homeless. 
+We use this measure as an estimate of government spending on homlessness previention and relief.<br>
 
