@@ -50,7 +50,8 @@ We use this measure as an estimate of government spending on homlessness previen
 
 By analysing the regional data, we can get a quick glimpse at what areas are most affected by homelessness.
 
-<img width="1000" alt="image" src="https://github.com/user-attachments/assets/a619b087-1353-4cb9-b63e-4f77e2d1a294">
+<img width="1000" alt="image" src="https://github.com/user-attachments/assets/5ee6cf68-7591-4c15-a8ae-522c09130044">
+
 
 
 source: [UK GOV - Statutory Homleness - 2024](https://www.gov.uk/government/statistical-data-sets/live-tables-on-homelessness)
@@ -60,9 +61,9 @@ We can see that the North-East is most affected by homelessness. This is likely 
 Looking at the median house price to median residence earning ratio, we can see that this is not directly due to housing affordability.
 A high ratio would suggest the price is higher relative to earnings, meaning housing is less affordable. 
 
-<img width="1000" alt="image" src="https://github.com/user-attachments/assets/d6316358-4619-45e0-8026-57e5b01eb595">
+<img width="1000" alt="image" src="https://github.com/user-attachments/assets/f0d1a20b-b917-4d7a-87ad-806459fb083a">
 
-source: 
+source: [ONS GOV UK - House Prices to Growth Earnings Ratio](https://www.ons.gov.uk/peoplepopulationandcommunity/housing/datasets/housepriceexistingdwellingstoresidencebasedearningsratio)
 
 The North East has the lowest ratio which tells us there housing is more affordable than in other regions. This suggests the higher homeless rate might be more due to social reasons such as access to social care, family support, or education.
 
