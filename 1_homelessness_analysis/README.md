@@ -39,16 +39,16 @@ Before we go further into the report, it is important to know that owed relief i
 We use this measure as an estimate of government spending on homlessness previention and relief.<br>
 
 By analysing the regional data, we can get a quick glimpse at what areas are most affected by homelessness.
-<center>
+
 <img width="1000" alt="image" src="https://github.com/user-attachments/assets/5fdc617a-47e6-4d07-ae37-782fe5f1e187">
-</center>
+
 We can see that the North-East is most affected by homelessness. This is likely due to historical shifts in the UK economy which pushed jobs towards other regions.
 
 Looking at the median house price to median residence earning ratio, we can see that this is not directly due to housing affordability.
 A high ratio would suggest the price is higher relative to earnings, meaning housing is less affordable. 
-<center>
+
 <img width="1000" alt="image" src="https://github.com/user-attachments/assets/d6316358-4619-45e0-8026-57e5b01eb595">
-</center>
+
 
 The North East has the lowest ratio which tells us there housing is more affordable than in other regions. This suggests the higher homeless rate might be more due to social reasons such as access to social care, family support, or education.
 
@@ -56,7 +56,7 @@ The North East has the lowest ratio which tells us there housing is more afforda
 
 We selected the assessed total owed relief measure to represent government spending on prevention and relief. The tree map below shows the proportion of spending across regions.
 <div style="text-align: center;">
-<img width="500" alt="image" src="https://github.com/user-attachments/assets/4e01feea-0d6d-4580-8e1d-0db67b23d9e2">
+<img width="700" alt="image" src="https://github.com/user-attachments/assets/4e01feea-0d6d-4580-8e1d-0db67b23d9e2">
 </div>
 London spent the most on relief and prevention with 22% of total spending.
 
