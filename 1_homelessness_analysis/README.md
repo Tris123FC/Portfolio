@@ -40,6 +40,8 @@ We use this measure as an estimate of government spending on homlessness previen
 
 By analysing the regional data, we can get a quick glimpse at what areas are most affected by homelessness.
 
-<img width="1000" alt="image" src="https://github.com/user-attachments/assets/22b2f79c-5b86-4d1c-8bea-008b2e545fc3">
+<img width="1000" alt="image" src="https://github.com/user-attachments/assets/5fdc617a-47e6-4d07-ae37-782fe5f1e187">
+
+We can see that the North-East is most affected by homelessness. This is likely due to historical shifts in the economy which pushes jobs towards the big cities such as London and Manchester.
 
 
