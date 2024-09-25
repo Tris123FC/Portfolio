@@ -70,7 +70,8 @@ The North East has the lowest ratio which tells us there housing is more afforda
 ## **Spending on homelessness prevention and relief**
 
 We selected the assessed total owed relief measure to represent government spending on prevention and relief. The tree map below shows the proportion of spending across regions.
-<img width="800" alt="image" src="https://github.com/user-attachments/assets/4e01feea-0d6d-4580-8e1d-0db67b23d9e2">
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/4041f5ab-6520-4dea-8766-17b2d41dbec9">
+
 
 source: [UK GOV - Statutory Homleness - 2024](https://www.gov.uk/government/statistical-data-sets/live-tables-on-homelessness)
 
