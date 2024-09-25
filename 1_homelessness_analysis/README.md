@@ -82,9 +82,9 @@ As we can see from the chart the London has a population of around 9 million, co
 
 source: [ONS GOV UK - Estimate of Population for England and Wales - 2024](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/datasets/estimatesofthepopulationforenglandandwales)
 
-<img width="1000" alt="image" src="https://github.com/user-attachments/assets/77ca06cb-cb35-4263-8123-56f9ecb7c343">
-
 Cost of living disparities is best represented using the average private rent.
+
+<img width="1000" alt="image" src="https://github.com/user-attachments/assets/77ca06cb-cb35-4263-8123-56f9ecb7c343">
 
 source: [ONS GOV UK - Private Rent and House Prices - 2024](https://www.ons.gov.uk/economy/inflationandpriceindices/bulletins/privaterentandhousepricesuk/august2024)
 
