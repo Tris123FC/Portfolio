@@ -16,8 +16,12 @@ all of this is in an effort to reduce purchase and rental costs with intent to a
 
 <img width="4000" alt="image" src="https://github.com/user-attachments/assets/9c516c22-c695-4af7-8b77-9e646313c4f7">
 
+UK house prices reached £262,000 in 2024 compared to ...
+
 source: [Nationwide House Price Index](https://www.nationwidehousepriceindex.co.uk/resources/f/uk-data-series)
 
 <img width="4000" alt="image" src="https://github.com/user-attachments/assets/8fed0525-eaea-4315-9c8e-2e49f0523899">
+
+The month of ... has an inflation rate of 7%.
 
 source: [ONS Gov UK](https://www.ons.gov.uk/economy/inflationandpriceindices/articles/costoflivinginsights/food)
