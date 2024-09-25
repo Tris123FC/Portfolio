@@ -1,5 +1,5 @@
 ## Analysis of Homelessness Relief Figures (2024)
-**Motivation:** 
+**<u>Motivation:</u>** 
 
 Homelessness is a pressing social issue, and I wanted to understand how government spending impacts homelessness rates across different regions. This project involves a time-series analysis of relief spending relative to housing procurement and a geographical analysis of homelessness figures across the UK. The goal was to identify trends and disparities that could inform policy decisions.
 
@@ -8,8 +8,9 @@ Homelessness is a pressing social issue, and I wanted to understand how governme
 
 - **Data Source:**
   [UK Government Statistical Data on Homelessness](https://www.gov.uk/government/statistical-data-sets/live-tables-on-homelessness)
+  
 
-**Project Snapshot**
+**<u>Project Snapshot</u>**
 
 ![Project Screenshot](images/dashboard.png)
 
