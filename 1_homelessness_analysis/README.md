@@ -31,31 +31,145 @@ source: [ONS Gov UK](https://www.ons.gov.uk/economy/inflationandpriceindices/art
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Chart with Textbox</title>
+    <title>Chart with Textbox and Sources</title>
     <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
         .container {
             display: flex;
         }
         .chart {
-            width: 70%;
+            width: 60%;
         }
         .textbox {
-            width: 30%;
+            width: 35%;
             padding-left: 20px;
+        }
+        .textbox textarea {
+            width: 100%;
+            height: 200px;
+        }
+        footer {
+            margin-top: 20px;
+        }
+        footer ul {
+            list-style-type: none;
+        }
+        footer ul li {
+            margin-bottom: 5px;
         }
     </style>
 </head>
 <body>
+
+    <!-- Header -->
+    <header>
+        <h1>Analysis Report</h1>
+        <h2>Chart Visualization and Notes</h2>
+    </header>
+
+    <!-- Chart and Textbox Container -->
     <div class="container">
+        <!-- Chart Section -->
         <div class="chart">
-            <!-- Your chart goes here (e.g., a canvas or an img) -->
-            <img src="chart.png" alt="Sample Chart" style="width:100%;">
+            <h3>Chart 1: Sales Over Time</h3>
+            <!-- Example chart using canvas (you can replace this with an actual chart library) -->
+            <canvas id="myChart" width="400" height="400"></canvas>
         </div>
+
+        <!-- Textbox Section -->
         <div class="textbox">
-            <textarea rows="10" cols="30">
-                This is a textbox next to the chart.
-            </textarea>
+            <h3>Notes</h3>
+            <textarea placeholder="Enter your notes here..."></textarea>
         </div>
     </div>
+
+    <!-- Another Section for Additional Charts or Textboxes -->
+    <div class="container">
+        <div class="chart">
+            <h3>Chart 2: Revenue by Region</h3>
+            <!-- Example chart using canvas -->
+            <canvas id="myChart2" width="400" height="400"></canvas>
+        </div>
+
+        <div class="textbox">
+            <h3>Notes</h3>
+            <textarea placeholder="Enter your notes here..."></textarea>
+        </div>
+    </div>
+
+    <!-- Footer with Sources -->
+    <footer>
+        <h3>Sources</h3>
+        <ul>
+            <li><a href="https://example.com">Source 1: Sales Data</a></li>
+            <li><a href="https://example.com">Source 2: Revenue Statistics</a></li>
+            <li><a href="https://example.com">Source 3: Market Analysis</a></li>
+        </ul>
+    </footer>
+
+    <!-- Include Chart.js or other charting library -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script>
+        // Chart 1 - Sales Over Time
+        var ctx1 = document.getElementById('myChart').getContext('2d');
+        var myChart1 = new Chart(ctx1, {
+            type: 'line',
+            data: {
+                labels: ['January', 'February', 'March', 'April', 'May'],
+                datasets: [{
+                    label: 'Sales',
+                    data: [12, 19, 3, 5, 2],
+                    borderColor: 'rgba(75, 192, 192, 1)',
+                    borderWidth: 2
+                }]
+            },
+            options: {
+                responsive: true,
+                scales: {
+                    y: {
+                        beginAtZero: true
+                    }
+                }
+            }
+        });
+
+        // Chart 2 - Revenue by Region
+        var ctx2 = document.getElementById('myChart2').getContext('2d');
+        var myChart2 = new Chart(ctx2, {
+            type: 'bar',
+            data: {
+                labels: ['North', 'South', 'East', 'West'],
+                datasets: [{
+                    label: 'Revenue',
+                    data: [10, 15, 7, 12],
+                    backgroundColor: [
+                        'rgba(255, 99, 132, 0.2)',
+                        'rgba(54, 162, 235, 0.2)',
+                        'rgba(255, 206, 86, 0.2)',
+                        'rgba(75, 192, 192, 0.2)'
+                    ],
+                    borderColor: [
+                        'rgba(255, 99, 132, 1)',
+                        'rgba(54, 162, 235, 1)',
+                        'rgba(255, 206, 86, 1)',
+                        'rgba(75, 192, 192, 1)'
+                    ],
+                    borderWidth: 1
+                }]
+            },
+            options: {
+                responsive: true,
+                scales: {
+                    y: {
+                        beginAtZero: true
+                    }
+                }
+            }
+        });
+    </script>
+
 </body>
 </html>
