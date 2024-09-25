@@ -50,7 +50,8 @@ We use this measure as an estimate of government spending on homlessness previen
 
 By analysing the regional data, we can get a quick glimpse at what areas are most affected by homelessness.
 
-<img width="1000" alt="image" src="https://github.com/user-attachments/assets/5ee6cf68-7591-4c15-a8ae-522c09130044">
+<img width="1000" alt="image" src="https://github.com/user-attachments/assets/83ec46bb-b0e4-4932-9f45-022c31641f84">
+
 
 
 
