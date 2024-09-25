@@ -115,7 +115,8 @@ of being homeless.
 A graph from the Website Statista, confirms the assumption of higher unemployment rates among those groups
 
 <img width="1000" alt="image" src="https://github.com/user-attachments/assets/824b7f20-e66a-40f9-a99e-fa781d4cd860">
-source:[Statista - Unemployement in the UK by age group](https://www.statista.com/statistics/974421/unemployment-rate-uk-by-age)
+
+source:[Statista - Unemployement in the UK by age group](https://www.statista.com/statistics/974421/unemployment-rate-uk-by-age/)
 
 
 
