@@ -55,9 +55,11 @@ The North East has the lowest ratio which tells us there housing is more afforda
 ## **Spending on homelessness prevention and relief**
 
 We selected the assessed total owed relief measure to represent government spending on prevention and relief. The tree map below shows the proportion of spending across regions.
-<div style="text-align: center;">
-<img width="700" alt="image" src="https://github.com/user-attachments/assets/4e01feea-0d6d-4580-8e1d-0db67b23d9e2">
-</div>
-London spent the most on relief and prevention with 22% of total spending. The differences in spending most likely due to population.
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/4e01feea-0d6d-4580-8e1d-0db67b23d9e2">
+source: [UK Government Stastistical Data on Homelessness](https://www.gov.uk/government/statistical-data-sets/live-tables-on-homelessness)
+London spent the most on relief and prevention with 22% of total spending. The differences in spending most likely due to population and cost of living disparities across regions.
+
+<img width="1000" alt="image" src="https://github.com/user-attachments/assets/6185b640-da85-4afc-a3ac-5e818253ab21">
+source: [ONS GOV UK - Estimate of Population for England and Wales](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/datasets/estimatesofthepopulationforenglandandwales)
 
 
