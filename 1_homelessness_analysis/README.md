@@ -52,5 +52,12 @@ A high ratio would suggest the price is higher relative to earnings, meaning hou
 
 The North East has the lowest ratio which tells us there housing is more affordable than in other regions. This suggests the higher homeless rate might be more due to social reasons such as access to social care, family support, or education.
 
+## **Spending on homelessness prevention and relief**
+
+We selected the assessed total owed relief measure to represent government spending on prevention and relief. The tree map below shows the proportion of spending across regions.
+
+<img width="1000" alt="image" src="https://github.com/user-attachments/assets/4e01feea-0d6d-4580-8e1d-0db67b23d9e2">
+
+London spent the most on relief and prevention with 22% of total spending.
 
 
