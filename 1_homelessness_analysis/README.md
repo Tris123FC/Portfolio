@@ -1,4 +1,4 @@
-## 1. Analysis of Homelessness Relief Figures (2024)
+## Analysis of Homelessness Relief Figures (2024)
 **Motivation:** Homelessness is a pressing social issue, and I wanted to understand how government spending impacts homelessness rates across different regions. This project involves a time-series analysis of relief spending relative to housing procurement and a geographical analysis of homelessness figures across the UK. The goal was to identify trends and disparities that could inform policy decisions. 
 
 - **OneDrive Link:**
@@ -8,4 +8,8 @@
   [UK Government Statistical Data on Homelessness](https://www.gov.uk/government/statistical-data-sets/live-tables-on-homelessness)
 
 ![Project Screenshot](images/dashboard.png)
+
+**1. UK Homlessness Rates Across England**
+With a new Labour Party government recently elected, building homes is at the top of the agenda as property prices and living costs skyrocket.
+<img width="362" alt="image" src="https://github.com/user-attachments/assets/e2bc8b0d-c1bc-4303-b176-e9a9c4637ea8">
 
