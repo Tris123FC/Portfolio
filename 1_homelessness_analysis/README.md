@@ -46,10 +46,10 @@ But what about the people who are the most at risk?
 ## **Homelessness in the UK**
 A 2024 report by the government dating back to August 2024 provides data on owed relief and homeless figures from the second quarter of 2018 to the first quarter of 2024.
 
-Before we go further into the report, it is important to know that owed relief is the money assessed owed by the government to UK residents who are threatened with homelessness or who are currently homeless. 
+Before we go further into the report, it is important to know that owed relief is the money assessed owed by the government to England residents who are threatened with homelessness or who are currently homeless. 
 We use this measure as an estimate of government spending on homlessness prevention and relief.
 
-By analysing the regional data, we can get a quick glimpse at what areas are most affected by homelessness.
+By analysing the regional data, we can get a quick glimpse at the areas that are most affected by homelessness.
 
 <img width="1000" alt="image" src="https://github.com/user-attachments/assets/83ec46bb-b0e4-4932-9f45-022c31641f84">
 
@@ -70,7 +70,7 @@ We selected the assessed total owed relief measure to represent government spend
 
 <img width="800" alt="image" src="https://github.com/user-attachments/assets/2fa174af-b927-4527-ac48-3d136a009823">
 
-Again we see disparities in spending. London spent the most on relief and prevention with around 21% of total spending. The differences in spending most likely due to population and cost of living differences across regions.
+Again we see disparities in spending. London spent the most on relief and prevention with around 21% of total spending. The differences in spending is mainly due to population and cost of living differences across regions.
 
 <img width="1000" alt="image" src="https://github.com/user-attachments/assets/acbb7f11-2246-4984-916b-1bdaa6a029a3">
 
@@ -93,9 +93,9 @@ From are previous analysis we can identify key insights on the geographic nature
 
 - Different regions are affected more than others, the North East has the highest homeless rate at 0.22%
 
-- The reason is most likely due to social issues such as lack of access to care, family support and government relief.
-
 - Spending on prevention and relief measures is different across regions, mostly due to population and cost of living disparities, London and the South East being the most costly.
+
+- This leads us to assume any disparity in homeless rates is due to social regional differences in access to care, family support and government relief.
 
 Now that we better understand the most affected regions and the spending associated with each area, let's look at the demographics, specifically which age group is most likely to be at risk of homelessness.
 
@@ -107,16 +107,19 @@ Looking at the demographic distribution through a pie chart, gives us a clearer 
 
 source: [UK GOV - Statutory Homleness - 2024](https://www.gov.uk/government/statistical-data-sets/live-tables-on-homelessness)
 
-As we see from the chart, the population most at risk is between the ages of 25 and 44. This is probably the result of unemployment higher rates among these age groups which reduces long run income stability 
+As we see from the chart, the population most at risk is between the ages of 25 and 44. This is probably the result of higher unemployment rates among these age groups which reduces long run income stability 
 and increases the risk of being homeless.
 
-A graph from the Website Statista, confirms the assumption of higher unemployment rates among those groups
+Below is a chart which displays the proportion of people unemployed by age group:
 
 <img width="1000" alt="image" src="https://github.com/user-attachments/assets/824b7f20-e66a-40f9-a99e-fa781d4cd860">
 
 source: [Statista - Unemployement in the UK by age group](https://www.statista.com/statistics/974421/unemployment-rate-uk-by-age/)
 
-Unemployment among these groups might be explained by:
+The data confirms the assumption of higher unemployment rates among those groups.
+The higher unemployment rates among people aged between 24 and 35 suggest some inequality in job opportunities between age groups.
+
+This inequality might be explained by:
 
 - poor economic performance, leaving employers unwilling to invest in new hires.
   
@@ -143,17 +146,20 @@ Below is a chart which show how government spending and house procurements effor
 <img width="1000" alt="image" src="https://github.com/user-attachments/assets/1a540166-fb6f-4160-8b2a-34378c0c5c14">
 
 
-As we can see from the chart, the procurement of houses has stagnated around a constant level, as is the same for homeless figures, however relief spending increased.
+As we can see from the chart, the house procurement figures have stagnated around a constant level, as is the same for homeless figures, however relief spending increased.
 
-This suggests that spending on relief has increased for other reasons other than house procurement and homeless figures.
+This suggests that spending on relief has increased for other reasons other than house procurement initiatives and homelessness.
 
 The most likely cause is the rise in the cost of living which we have seen in previous charts.
 
 ## **Suggestions based on previous analysis**
 
-Based on what we have seen from the data, we can identify disparities across regions and age groups.
+Based on what we have seen from the data, we have found disparities in terms of homelessness, and relief spending across regions and age groups.
 
-Local municipalities should focus 
+As we have eliminated economic factors as potential reasons for the disparities, this leads us to deduce that social regional differences and inequality of opportunities between age groups are at play.
+
+Government iniatives should therefore focus on tackling the social inequalities at play.
+
 
 
 
