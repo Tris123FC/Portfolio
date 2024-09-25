@@ -84,7 +84,8 @@ source: [ONS GOV UK - Estimate of Population for England and Wales - 2024](https
 
 Cost of living disparities is best represented using the average private rent.
 
-<img width="1000" alt="image" src="https://github.com/user-attachments/assets/77ca06cb-cb35-4263-8123-56f9ecb7c343">
+<img width="1000" alt="image" src="https://github.com/user-attachments/assets/9fdd8cb8-c76a-4370-a477-f14e017bb00a">
+
 
 source: [ONS GOV UK - Private Rent and House Prices - 2024](https://www.ons.gov.uk/economy/inflationandpriceindices/bulletins/privaterentandhousepricesuk/august2024)
 
