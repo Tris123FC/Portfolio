@@ -93,11 +93,32 @@ London has the highest private rent costs, meaning securing housing for individu
 
 From are previous analysis we can identify key insights on the geographic nature of homelessness.
 
-_ Different regions are affected more than others, the North East has the highest homeless rate at 0.22%
+- Different regions are affected more than others, the North East has the highest homeless rate at 0.22%
 
-_ The reason is most likely due to social issues such as lack of access to care, family support and government relief.
+- The reason is most likely due to social issues such as lack of access to care, family support and government relief.
 
-_ Spending on prevention and relief measures is different across regions, mostly due to population and cost of living disparities, London and the South East being the most costly.
+- Spending on prevention and relief measures is different across regions, mostly due to population and cost of living disparities, London and the South East being the most costly.
 
 Now that we better understand the most affected regions and the spending associated with each area, let's look at the demographics, specifically which age group is most likely to be at risk of homelessness.
+
 ## **Demographics of people at risk of homelessness**
+
+Looking at the demographic distribution through a pie chart, gives us a clearer idea of which age group is more at risk of being homeless.
+
+<img width="423" alt="image" src="https://github.com/user-attachments/assets/a86d9459-da7b-40db-985f-996298736395">
+
+source:
+
+As we see from the chart, the population most at risk is between the ages of 25 and 44. This is probably the result of unemployment rates among these age groups.
+
+
+
+
+
+
+
+
+
+
+
+
