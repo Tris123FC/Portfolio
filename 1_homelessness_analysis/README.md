@@ -16,12 +16,46 @@ all of this is in an effort to reduce purchase and rental costs with intent to a
 
 <img width="4000" alt="image" src="https://github.com/user-attachments/assets/9c516c22-c695-4af7-8b77-9e646313c4f7">
 
-UK house prices reached £262,000 in 2024 compared to ...
+UK house prices reached around £262,000 in 2024 compared to 181,000 in 2007.
 
 source: [Nationwide House Price Index](https://www.nationwidehousepriceindex.co.uk/resources/f/uk-data-series)
 
 <img width="4000" alt="image" src="https://github.com/user-attachments/assets/8fed0525-eaea-4315-9c8e-2e49f0523899">
 
-The month of ... has an inflation rate of 7%.
+January 2024 saw an inflation rate of 7%.
 
 source: [ONS Gov UK](https://www.ons.gov.uk/economy/inflationandpriceindices/articles/costoflivinginsights/food)
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chart with Textbox</title>
+    <style>
+        .container {
+            display: flex;
+        }
+        .chart {
+            width: 70%;
+        }
+        .textbox {
+            width: 30%;
+            padding-left: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="chart">
+            <!-- Your chart goes here (e.g., a canvas or an img) -->
+            <img src="chart.png" alt="Sample Chart" style="width:100%;">
+        </div>
+        <div class="textbox">
+            <textarea rows="10" cols="30">
+                This is a textbox next to the chart.
+            </textarea>
+        </div>
+    </div>
+</body>
+</html>
