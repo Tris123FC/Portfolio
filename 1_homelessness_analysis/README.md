@@ -18,13 +18,9 @@ all of this is in an effort to reduce purchase and rental costs with intent to a
 
 <img width="4000" alt="image" src="https://github.com/user-attachments/assets/9c516c22-c695-4af7-8b77-9e646313c4f7">
 
-UK house prices reached around £262,000 in 2024 compared to 181,000 in 2007.
-
-source: [Nationwide House Price Index](https://www.nationwidehousepriceindex.co.uk/resources/f/uk-data-series)
+UK house prices reached around £262,000 in 2024 compared to 181,000 in 2007. source: [Nationwide House Price Index](https://www.nationwidehousepriceindex.co.uk/resources/f/uk-data-series)
 
 <img width="4000" alt="image" src="https://github.com/user-attachments/assets/8fed0525-eaea-4315-9c8e-2e49f0523899">
 
-January 2024 saw an inflation rate of 7%.
-
-source: [ONS Gov UK](https://www.ons.gov.uk/economy/inflationandpriceindices/articles/costoflivinginsights/food)
+January 2024 saw an inflation rate of 7%. source: [ONS Gov UK](https://www.ons.gov.uk/economy/inflationandpriceindices/articles/costoflivinginsights/food)
 
