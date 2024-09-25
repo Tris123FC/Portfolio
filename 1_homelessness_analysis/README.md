@@ -78,4 +78,8 @@ London spent the most on relief and prevention with 22% of total spending. The d
 
 source: [ONS GOV UK - Estimate of Population for England and Wales](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/datasets/estimatesofthepopulationforenglandandwales)
 
+<img width="1000" alt="image" src="https://github.com/user-attachments/assets/831c6150-de2d-4b8c-a9dd-97f7785f14b7">
+
+source: [ONS GOV UK - Private Rent and House Prices - 2024](https://www.ons.gov.uk/economy/inflationandpriceindices/bulletins/privaterentandhousepricesuk/august2024)
+
 
