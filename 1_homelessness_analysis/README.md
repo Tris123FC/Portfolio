@@ -12,10 +12,12 @@
 **1. UK Homlessness Rates Across England**
 With a new Labour Party government recently elected, building homes is at the top of the agenda as property prices and living costs skyrocket.
 
-<img width="4000" alt="image" src="https://github.com/user-attachments/assets/de01b150-3efc-44fb-9cb7-5ad9446f5067">
+<img width="4000" alt="image" src="https://github.com/user-attachments/assets/9c516c22-c695-4af7-8b77-9e646313c4f7">
+
 
 source: [Nationwide House Price Index](https://www.nationwidehousepriceindex.co.uk/resources/f/uk-data-series)
 
-<img width="4000" alt="image" src="https://github.com/user-attachments/assets/e3f24ec4-1081-463b-a2df-fafbba27fbfc">
+<img width="4000" alt="image" src="https://github.com/user-attachments/assets/8fed0525-eaea-4315-9c8e-2e49f0523899">
+
 
 source: [ONS Gov UK](https://www.nationwidehousepriceindex.co.uk/resources/f/uk-data-series](https://www.ons.gov.uk/economy/inflationandpriceindices/articles/costoflivinginsights/food))
