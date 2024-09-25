@@ -14,7 +14,7 @@ Homelessness is a pressing social issue, and I wanted to understand how governme
 
 ![Project Screenshot](images/dashboard.png)
 
-## **1. UK Homlessness Rates Across England**
+## **I. UK Homlessness Rates Across England**
 
 With a new Labour Party government recently elected, building homes is at the top of the agenda as property prices and living costs skyrocket,
 all of this is in an effort to reduce purchase and rental costs with intent to alleviate the burden of UK residents.
@@ -37,4 +37,8 @@ A 2024 report by the government dating back to August 2024 provides data on owed
 
 Before we go further into the report, it is important to know that owed relief is the money assessed owed by the government to UK residents who are threatened with homelessnessor currently homeless. 
 We use this measure as an estimate of government spending on homlessness previention and relief.<br>
+By analysing the regional data, we can get a quick glimpse at what areas are most affected by homelessness.
+
+<img width="1000" alt="image" src="https://github.com/user-attachments/assets/22b2f79c-5b86-4d1c-8bea-008b2e545fc3">
+
 
