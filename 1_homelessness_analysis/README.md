@@ -9,6 +9,8 @@ Homelessness is a pressing social issue, and I wanted to understand how governme
 - **Data Source:**
   [UK Government Statistical Data on Homelessness](https://www.gov.uk/government/statistical-data-sets/live-tables-on-homelessness)
 
+**Project Snapshot**
+
 ![Project Screenshot](images/dashboard.png)
 
 **1. UK Homlessness Rates Across England**
