@@ -20,7 +20,7 @@ Homelessness is a pressing social issue, and I wanted to understand how governme
 
 ![Project Screenshot](images/dashboard.png)
 
-## **I. UK Homlessness Rates Across England**
+## **Homlessness Rates Across England**
 
 With a new Labour Party government recently elected, building homes is at the top of the agenda as property prices and living costs skyrocket,
 all of this is in an effort to reduce purchase and rental costs with intent to alleviate the burden of UK residents.
@@ -66,7 +66,7 @@ A high ratio would suggest the price is higher relative to earnings, meaning hou
 
 source: [ONS GOV UK - House Prices to Growth Earnings Ratio](https://www.ons.gov.uk/peoplepopulationandcommunity/housing/datasets/housepriceexistingdwellingstoresidencebasedearningsratio)
 
-The North East has the lowest ratio which tells us there housing is more affordable than in other regions. This suggests the higher homeless rate might be more due to social reasons such as access to social care, family support, or education.
+The North East has the lowest ratio which tells us there housing is more affordable than in other regions. This suggests the higher homeless rate might be more due to social reasons such as access to social care, family support, and government support.
 
 ## **Spending on homelessness prevention and relief**
 
@@ -90,3 +90,11 @@ Cost of living disparities is best represented using the average private rent.
 source: [ONS GOV UK - Private Rent and House Prices - 2024](https://www.ons.gov.uk/economy/inflationandpriceindices/bulletins/privaterentandhousepricesuk/august2024)
 
 London has the highest private rent costs, meaning securing housing for individuals at risk is more expensive if there is not enough council housing.
+
+From are previous analysis we can identify key insights on the geographic nature of homelessness.
+_ Different regions are affected more than others, the North East has the highest homeless rate at 0.22%
+_ The reason is most likely due to social issues such as lack of access to care, family support and government relief.
+_ Spending on prevention and relief measures is different across regions, mostly due to population and cost of living disparities, London and the South East being the most costly.
+
+Now that we better understand the most affected regions and the spending associated with each area, let's look at the demographics, specifically which age group is most likely to be at risk of homelessness.
+## **Demographics of people at risk of homelessness**
