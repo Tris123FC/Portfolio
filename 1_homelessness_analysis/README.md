@@ -16,7 +16,7 @@ Homelessness is a pressing social issue, and I wanted to understand how governme
 With a new Labour Party government recently elected, building homes is at the top of the agenda as property prices and living costs skyrocket,
 all of this is in an effort to reduce purchase and rental costs with intent to alleviate the burden of UK residents.
 
-<img width="456" alt="image" src="https://github.com/user-attachments/assets/d1016736-5ae7-45b6-bb34-9bcf9ea65737">
+<img width="1000" alt="image" src="https://github.com/user-attachments/assets/d1016736-5ae7-45b6-bb34-9bcf9ea65737">
 
 
 UK house prices reached around £262,000 in 2024 compared to 181,000 in 2007. source: [Nationwide House Price Index](https://www.nationwidehousepriceindex.co.uk/resources/f/uk-data-series)
