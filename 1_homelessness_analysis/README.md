@@ -29,8 +29,10 @@ UK house prices reached around £262,000 in 2024 compared to 181,000 in 2007. so
 
 January 2024 saw an inflation rate of 7%. source: [ONS Gov UK](https://www.ons.gov.uk/economy/inflationandpriceindices/articles/costoflivinginsights/food)
 
-But what about the people who are the most at risk? Those threatened of being evicted and homeless.<br>
+It is fair to say that the new government has a hard job ahead of them, with the previous government failing to resolve the growing demand for houses.
+But what about the people who are the most at risk?
 
+## **Homelessness in the UK**
 A 2024 report by the government dating back to August 2024 provides data on owed relief and homeless figures from the second quarter of 2018 to the first quarter of 2024.<br>
 
 Before we go further into the report, it is important to know that owed relief is the money assessed owed by the government to UK residents who are threatened with homelessnessor currently homeless.<br>
