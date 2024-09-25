@@ -70,18 +70,18 @@ The North East has the lowest ratio which tells us there housing is more afforda
 ## **Spending on homelessness prevention and relief**
 
 We selected the assessed total owed relief measure to represent government spending on prevention and relief. The tree map below shows the proportion of spending across regions.
-<img width="800" alt="image" src="https://github.com/user-attachments/assets/4041f5ab-6520-4dea-8766-17b2d41dbec9">
-
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/7423bacc-c7be-4704-bae8-9a18c1613fef">
 
 source: [UK GOV - Statutory Homleness - 2024](https://www.gov.uk/government/statistical-data-sets/live-tables-on-homelessness)
 
 London spent the most on relief and prevention with 22% of total spending. The differences in spending most likely due to population and cost of living disparities across regions.
 
-<img width="1000" alt="image" src="https://github.com/user-attachments/assets/6185b640-da85-4afc-a3ac-5e818253ab21">
+<img width="1000" alt="image" src="https://github.com/user-attachments/assets/acbb7f11-2246-4984-916b-1bdaa6a029a3">
 
 source: [ONS GOV UK - Estimate of Population for England and Wales - 2024](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/datasets/estimatesofthepopulationforenglandandwales)
 
-<img width="1000" alt="image" src="https://github.com/user-attachments/assets/831c6150-de2d-4b8c-a9dd-97f7785f14b7">
+<img width="1000" alt="image" src="https://github.com/user-attachments/assets/77ca06cb-cb35-4263-8123-56f9ecb7c343">
+
 
 source: [ONS GOV UK - Private Rent and House Prices - 2024](https://www.ons.gov.uk/economy/inflationandpriceindices/bulletins/privaterentandhousepricesuk/august2024)
 
