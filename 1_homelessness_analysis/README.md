@@ -109,7 +109,14 @@ Looking at the demographic distribution through a pie chart, gives us a clearer 
 
 source:[UK GOV - Statutory Homleness - 2024](https://www.gov.uk/government/statistical-data-sets/live-tables-on-homelessness)
 
-As we see from the chart, the population most at risk is between the ages of 25 and 44. This is probably the result of unemployment rates among these age groups.
+As we see from the chart, the population most at risk is between the ages of 25 and 44. This is probably the result of unemployment higher rates among these age groups which reduces long run income stability and increases the risk
+of being homeless.
+
+A graph from the Website Statista, confirms the assumption of higher unemployment rates among those groups
+
+<img width="1000" alt="image" src="https://github.com/user-attachments/assets/824b7f20-e66a-40f9-a99e-fa781d4cd860">
+source: [Statista - Unemployement in the UK by age group](https://www.statista.com/statistics/974421/unemployment-rate-uk-by-age/)
+
 
 
 
