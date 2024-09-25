@@ -119,8 +119,11 @@ A graph from the Website Statista, confirms the assumption of higher unemploymen
 source: [Statista - Unemployement in the UK by age group](https://www.statista.com/statistics/974421/unemployment-rate-uk-by-age/)
 
 Unemployment among these groups might be explained by:
+
 - poor economic performance, leaving employers unwilling to invest in new hires.
+  
 - a shift of work place culture towards remote work, with reduced demand for office based jobs.
+  
 - less opportunities for apprenticeship and traineeship as people work more and more from home.
 
 ## **Government initiatives to assist people at risk**
@@ -140,6 +143,15 @@ One of the key initiatives is procuring affordable houses to those who are at ri
 Below is a chart which show how government spending and house procurements efforts evolved:
 
 <img width="1000" alt="image" src="https://github.com/user-attachments/assets/f3e07ee9-8b69-4b90-98a0-5036405e809c">
+
+As we can see from the chart, the procurement of houses has stagnated around a constant level, as is the same for homeless figures, however relief spending increased.
+
+This suggests that spending on relief has increased for other reasons other than house procurement and homeless figures.
+
+The most likely cause is the rise in the cost of living which we have seen in previous charts.
+
+
+
 
 
 
