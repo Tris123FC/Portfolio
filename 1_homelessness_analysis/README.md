@@ -14,8 +14,8 @@ With a new Labour Party government recently elected, building homes is at the to
 
 <img width="4000" alt="image" src="https://github.com/user-attachments/assets/de01b150-3efc-44fb-9cb7-5ad9446f5067">
 
-source: [Nationwide HPI](https://www.nationwidehousepriceindex.co.uk/resources/f/uk-data-series)
+source: [Nationwide House Price Index](https://www.nationwidehousepriceindex.co.uk/resources/f/uk-data-series)
 
 <img width="4000" alt="image" src="https://github.com/user-attachments/assets/e3f24ec4-1081-463b-a2df-fafbba27fbfc">
 
-source: [ONS Gov UK]([https://www.nationwidehousepriceindex.co.uk/resources/f/uk-data-series](https://www.ons.gov.uk/economy/inflationandpriceindices/articles/costoflivinginsights/food))
+source: [ONS Gov UK](https://www.nationwidehousepriceindex.co.uk/resources/f/uk-data-series](https://www.ons.gov.uk/economy/inflationandpriceindices/articles/costoflivinginsights/food))
