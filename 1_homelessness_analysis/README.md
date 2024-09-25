@@ -10,8 +10,9 @@
 ![Project Screenshot](images/dashboard.png)
 
 **1. UK Homlessness Rates Across England**
+
 With a new Labour Party government recently elected, building homes is at the top of the agenda as property prices and living costs skyrocket,
-<br>all of this is in an effort to reduce purchase and rental costs with intent to alleviate the burden of UK residents.
+all of this is in an effort to reduce purchase and rental costs with intent to alleviate the burden of UK residents.
 
 <img width="4000" alt="image" src="https://github.com/user-attachments/assets/9c516c22-c695-4af7-8b77-9e646313c4f7">
 
