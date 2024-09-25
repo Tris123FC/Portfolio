@@ -92,8 +92,11 @@ source: [ONS GOV UK - Private Rent and House Prices - 2024](https://www.ons.gov.
 London has the highest private rent costs, meaning securing housing for individuals at risk is more expensive if there is not enough council housing.
 
 From are previous analysis we can identify key insights on the geographic nature of homelessness.
+
 _ Different regions are affected more than others, the North East has the highest homeless rate at 0.22%
+
 _ The reason is most likely due to social issues such as lack of access to care, family support and government relief.
+
 _ Spending on prevention and relief measures is different across regions, mostly due to population and cost of living disparities, London and the South East being the most costly.
 
 Now that we better understand the most affected regions and the spending associated with each area, let's look at the demographics, specifically which age group is most likely to be at risk of homelessness.
