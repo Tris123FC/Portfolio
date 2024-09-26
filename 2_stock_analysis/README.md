@@ -15,3 +15,35 @@ The tech industry plays a crucial role in the global economy, and I wanted to ex
 
 We all hear about the the stock market from time to time, whether we like it or not, especially when things turn to the red, always causing a feeling of dread as the news coverage switches towards the financial coverage of the day as, let's face it, it is never good news.A constant cycle of of peaks and troughs lead by investor sentiment and market speculation. Turning our lense towards the Tech-Sector financial stocks, will we see the same trends as described previously?
 
+For this analysis I picked four stocks: Microsoft(MSFT), Amazon(AMZN), Apple(AAPL), Google(GOOG). I selected these stocks because they are all large multinational tech-companies that have branched out to offer multiple products and services.
+
+## **Closing Stock Prices of 4 big tech firms:**
+
+<img width="1000" alt="image" src="https://github.com/user-attachments/assets/36f7d004-1b09-4703-9738-9630fc0756a8">
+
+This chart displays the daily adjusted closing price of stocks for a period of 1 year ending in September 2024.
+The first thing we can spot is that Amazon, Google, and Apple have relatively similar stock prices, with Apple being slightly higher. In the third quarter of that year Apple had a stock price between 200 and 250, while Amazon and Google had a stock price between 150 and 200. The closeness in stock prices might suggests these companies are direct competitors for stock market investment. Microsoft, however, has a much higher stock price with an adjusted stock price almost always above 400 for the same period. This might be due to the type of product and services that each company provides. If we compore two companies, Apple is most well known for its user friendly technology products, while Microsoft is better known for its software business.
+
+One addition thing to note is the dip between  June and July. Articles from Investopedia suggest the reason might be due to a mix of investor rotation, interest rate speculation about potential interest rate cuts, and earning disappointement from underwhelming earning reports. 
+
+Further insights into stock market performance can be found by looking at the stock market price moving average.
+
+## **Stock Market Moving Average**
+
+What is a moving average?
+
+A moving average is calculated by taking the mean of a given set of values over a specified period.
+
+In financial analysis, the moving average is a key indicator it is used to:
+
+- smooth out the price data by creating a constant moving average.
+- Identify the direction of the stock
+
+You decide on the how short or long the moving average based on the purpose of your analysis.
+Shorter moving averages are used as indicators for short term trading, while longer moving averages is for more long term investment.
+
+
+<img width="392" alt="image" src="https://github.com/user-attachments/assets/8ca19649-f645-491f-96cc-04f6fe2739db">
+
+Looking at the moving average chart, we can see that although there was a dip in June and July the moving average has been constantly increasing over that period, suggesting a strong belief among investors in the tech industry as prices are still higher on average.
+
