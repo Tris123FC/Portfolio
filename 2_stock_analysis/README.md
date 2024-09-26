@@ -26,7 +26,7 @@ The first thing we can spot is that Amazon, Google, and Apple have relatively si
 
 One addition thing to note is the dip between  June and July. Articles from Investopedia suggest the reason might be due to a mix of investor rotation, interest rate speculation about potential interest rate cuts, and earning disappointement from underwhelming earning reports. You can see the dip clearer in the charts below.
 
-<img width="100" alt="image" src="https://github.com/user-attachments/assets/d69f8225-862f-4836-ac48-ff3e57435626">
+<img width="1000" alt="image" src="https://github.com/user-attachments/assets/d69f8225-862f-4836-ac48-ff3e57435626">
 
 
 Further insights into stock market performance can be found by looking at the stock market price moving average.
