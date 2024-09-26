@@ -50,3 +50,18 @@ Shorter moving averages are used as indicators for short term trading, while lon
 
 Looking at the moving average chart, we can see that although there was a dip in June and July the moving average has been constantly increasing over that period, suggesting a strong belief among investors in the tech industry as prices are still higher on average.
 
+As we now have a better understanding of stock market price trends, let's look further into investment returns.
+
+## **Analysis of Daily Investment Returns**
+
+Daily returns is the percentage change in stock prices. This measure is used to show the volatility in the stocks.
+
+<img width="1000" alt="image" src="https://github.com/user-attachments/assets/d6bd86cf-7637-458c-b7be-aaea88f2e7e5">
+
+A general rule of thumb for stocks is the 1%-2% rule. Stocks within those ranges are considered volatile. Based on this rule, we can see that tech stocks are relatively stable compared to other more volatile stocks.
+We can quickly see that the percentage daily returns moves around the 0% mark. Amazon and Google have a slightly wider variation range, but changes generally don't go past the 0.1% mark.
+
+We can get a better sense of volatility by looking at the distributions of daily returns for each companies' stock.
+
+<img width="1000" alt="image" src="https://github.com/user-attachments/assets/0629cfc3-c415-4a58-a671-9358d19f9c8f">
+
