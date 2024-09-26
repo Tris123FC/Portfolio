@@ -12,10 +12,24 @@ recommendations for improving page effectiveness.
 
 ## **The essence of AB Testing**
 
-In its essence, AB testing involves seperating an audience into two groups, group A and group B. Each group will experience two different experiences, in our case, two different landing pages.
+In its essence, AB testing involves seperating an audience into two equal groups, group A and group B. Each group will experience two different experiences, in our case, two different landing pages.
 The researchers who perform the AB test are looking for changes in key performance metrics which suggest preferences from the audience.
 
 <img width="850" alt="image" src="https://github.com/user-attachments/assets/0ec4966c-0448-49b3-91fe-4f8d8d87fb6d">
 
 In the picture above, the audience is looking at two landing pages. Here the key performance metric is conversion rate.
-The.... landing page performs better with a .... conversion compared to...
+The landing page that group B experienced performed better with a 40% conversion rate. The landing page from group A on the other hand only had a conversion rate of 20%.
+Based on these results,a company can assume that the landing page B provides a better experience to users, and they can now optimise their website to improve conversion figures.
+
+From this example, we can clearly see the benefits from AB testing, it is simple to perform and easy to interpret.
+
+## **Using Python Programming to Perform AB Testing**
+
+Performing an AB test using Python is the same as with other statiscal tools, with a little bit more coding.
+You have to gather the data, clean it, organise it. Then, you must explore the data to find the key insights it showcases. 
+And of course in the end, you have to test for significance, as every sample data is only usefeful if it is representative the general population the sample was taken from.
+For this case, I chose to perform Z-test as our data sample is quite large with over 29,000 rows of data.
+
+## **Here is a diagram of the process:**
+
+<img width="850" alt="image" src="https://github.com/user-attachments/assets/ebb2d7cd-d213-4935-9a87-9d2a332cbe87">
