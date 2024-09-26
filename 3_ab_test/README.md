@@ -16,3 +16,6 @@ In its essence, AB testing involves seperating an audience into two groups, grou
 The researchers who perform the AB test are looking for changes in key performance metrics which suggest preferences from the audience.
 
 <img width="850" alt="image" src="https://github.com/user-attachments/assets/0ec4966c-0448-49b3-91fe-4f8d8d87fb6d">
+
+In the picture above, the audience is looking at two landing pages. Here the key performance metric is conversion rate.
+The.... landing page performs better with a .... conversion compared to...
