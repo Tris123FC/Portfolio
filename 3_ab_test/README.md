@@ -15,4 +15,4 @@ recommendations for improving page effectiveness.
 In its essence, AB testing involves seperating an audience into two groups, group A and group B. Each group will experience two different experiences, in our case, two different landing pages.
 The researchers who perform the AB test are looking for changes in key performance metrics which suggest preferences from the audience.
 
-<img width="800" alt="image" src="https://github.com/user-attachments/assets/0ec4966c-0448-49b3-91fe-4f8d8d87fb6d">
+<img width="1000" alt="image" src="https://github.com/user-attachments/assets/0ec4966c-0448-49b3-91fe-4f8d8d87fb6d">
