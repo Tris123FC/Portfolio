@@ -78,4 +78,4 @@ Below is a correlation heat map for the 4 tech stocks that we selected:
 
 <img width="1000" alt="image" src="https://github.com/user-attachments/assets/095b8cb0-312e-42b0-8d24-ba7615e79fcc">
 
-There are are positive correlations between each stock suggesting stock performance is affected by common factors. Factors might include things such as stock market speculation, and investor sentiment.
+There are positive correlations between each stock suggesting stock performance is affected by common factors. Factors might include things such as stock market speculation, and investor sentiment.
