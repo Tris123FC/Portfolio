@@ -11,13 +11,13 @@ The tech industry plays a crucial role in the global economy, and I wanted to ex
 <img width="1000" alt="image" src="https://github.com/user-attachments/assets/e2e24b53-ee51-4495-8348-5284766194cd">
 
 
-## **Introduction**
+## **Topic Introduction**
 
 We all hear about the the stock market from time to time, whether we like it or not, especially when things turn to the red, always causing a feeling of dread as the news coverage switches towards the financial coverage of the day as, let's face it, it is never good news.A constant cycle of of peaks and troughs lead by investor sentiment and market speculation. Turning our lense towards the Tech-Sector financial stocks, will we see the same trends as described previously?
 
 For this analysis I picked four stocks: Microsoft(MSFT), Amazon(AMZN), Apple(AAPL), Google(GOOG). I selected these stocks because they are all large multinational tech-companies that have branched out to offer multiple products and services.
 
-## **Closing Stock Prices of 4 big tech firms:**
+## **Closing Stock Prices of 4 Big Tech Firms:**
 
 <img width="1000" alt="image" src="https://github.com/user-attachments/assets/36f7d004-1b09-4703-9738-9630fc0756a8">
 
@@ -67,3 +67,15 @@ We can get a better sense of volatility by looking at the distributions of daily
 
 From the distribution charts, we can see that each stock appears in roughly normally distributed with a low variance centred around 0 with a few extreme daily returns rates as a result of market fluctuations.
 
+We see from our previous analysis thaat all companies share identical trends, a correlation analysis might offer suggestions on the relations between each stock.
+
+## **Correlation Relations between Tech Companies**
+
+Correlations coffeficients is a measure of the statistical relations between two variables, assuming there is some kind of linearity in the relationship.
+Two variables have a positive correlation if an increase in one variable leads to an increase in the other.
+A strong positive correlation is in the range between 0.5 and 1, a strong negative correlation is between the range of -0.5 and -1.
+Below is a correlation heat map for the 4 tech stocks that we selected:
+
+<img width="1000" alt="image" src="https://github.com/user-attachments/assets/095b8cb0-312e-42b0-8d24-ba7615e79fcc">
+
+There are are positive correlations between each stock suggesting stock performance is affected by common factors. Factors might include things such as stock market speculation, and investor sentiment.
