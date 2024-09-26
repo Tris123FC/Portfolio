@@ -13,5 +13,5 @@ The tech industry plays a crucial role in the global economy, and I wanted to ex
 
 # **Introduction**
 
-We all hear about the the stock market from time to time, whether we like it or not, especially when things turn to the red, always causing a feeling of dread as the news coverage switches towards to financial coverage as, let's face it, it is never good news.A constant cycle of of peaks and troughs lead by investor sentiment and market speculation. Turning our lense towards the Tech-Sector financial stocks, will we see the same trends as described previously?
+We all hear about the the stock market from time to time, whether we like it or not, especially when things turn to the red, always causing a feeling of dread as the news coverage switches towards the financial coverage of the day as, let's face it, it is never good news.A constant cycle of of peaks and troughs lead by investor sentiment and market speculation. Turning our lense towards the Tech-Sector financial stocks, will we see the same trends as described previously?
 
