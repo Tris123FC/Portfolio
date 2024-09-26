@@ -32,4 +32,4 @@ For this case, I chose to perform Z-test as our data sample is quite large with 
 
 ## **Here is a diagram of the process:**
 
-<img width="850" alt="image" src="https://github.com/user-attachments/assets/ebb2d7cd-d213-4935-9a87-9d2a332cbe87">
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/ebb2d7cd-d213-4935-9a87-9d2a332cbe87">
