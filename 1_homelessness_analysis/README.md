@@ -18,7 +18,8 @@ Homelessness is a pressing social issue, and I wanted to understand how governme
 
 ## **Project Snapshot:**
 
-<img width="1000" alt="image" src="https://github.com/user-attachments/assets/45ee3977-f0bc-4008-afff-81a34274ccce">
+<img width="1500" alt="image" src="https://github.com/user-attachments/assets/d125a904-968a-44b7-a5ff-cd83e6f8bdbd">
+
 
 
 ## **Homlessness Rates Across England**
