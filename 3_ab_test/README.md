@@ -32,5 +32,5 @@ For this case, I chose to perform Z-test as our data sample is quite large with 
 
 ## **Here is a diagram of the process:**
 
-![image](https://github.com/user-attachments/assets/b0042085-2b05-4353-a82a-84cbc0d1dbaf)
+<img width="850" alt="image" src="https://github.com/user-attachments/assets/b0042085-2b05-4353-a82a-84cbc0d1dbaf">
 
