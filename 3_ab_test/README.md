@@ -28,9 +28,10 @@ From this example, we can clearly see the benefits from AB testing, it is simple
 Performing an AB test using Python is the same as with other statiscal tools, with a little bit more coding.
 You have to gather the data, clean it, organise it. Then, you must explore the data to find the key insights it showcases. 
 And of course in the end, you have to test for significance, as every sample data is only usefeful if it is representative the general population the sample was taken from.
-For this case, I chose to perform Z-test as our data sample is quite large with over 29,000 rows of data.
+For this case, I chose to perform Z-test as our data sample is quite large with over 300,000 rows of data.
 
 ## **Here is a diagram of the process:**
 
 <img width="850" alt="image" src="https://github.com/user-attachments/assets/b0042085-2b05-4353-a82a-84cbc0d1dbaf">
 
+## To See the AB-Test coding process and analysis, click the link here: [Full Analysis](https://github.com/Tris123FC/Portfolio/blob/main/3_ab_test/ab-testing-new-page-conversion.ipynb)
