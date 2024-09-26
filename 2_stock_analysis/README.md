@@ -5,11 +5,8 @@ The tech industry plays a crucial role in the global economy, and I wanted to ex
 
 **Python File Link:** [Stock Analysis](https://github.com/Tris123FC/Portfolio/blob/main/2_stock_analysis/tech-sector-analysis-2024.ipynb)
 
-![Project Screenshot](images/Screenshot4.png)
+<img width="1000" alt="image" src="https://github.com/user-attachments/assets/e2e24b53-ee51-4495-8348-5284766194cd">
 
-![Project Screenshot](images/Screenshot2.png)
-
-![Project Screenshot](images/Screenshot3.png)
 
 # **Introduction**
 
