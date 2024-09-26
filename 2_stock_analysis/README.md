@@ -104,7 +104,7 @@ The first visulisation shows a wide view of the model predictions based on 10 ye
 
 Zooming in, we see that there is still a significant margin of error. This model can be used to gain an overall sense of market trends, but it should not be used to predict exact prices.
 
-<img width="478" alt="image" src="https://github.com/user-attachments/assets/00ea1e8e-1216-43fb-9047-25fdcab6557b">
+<img width="1000" alt="image" src="https://github.com/user-attachments/assets/00ea1e8e-1216-43fb-9047-25fdcab6557b">
 
 ## **Summary**
 
