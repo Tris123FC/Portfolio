@@ -65,3 +65,5 @@ We can get a better sense of volatility by looking at the distributions of daily
 
 <img width="1000" alt="image" src="https://github.com/user-attachments/assets/0629cfc3-c415-4a58-a671-9358d19f9c8f">
 
+From the distribution charts, we can see that each stock appears in roughly normally distributed vies a variance  around .... with slights peaks at different daily return levels as a result of market fluctuations.
+
