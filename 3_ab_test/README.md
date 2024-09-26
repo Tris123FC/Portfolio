@@ -8,4 +8,5 @@ recommendations for improving page effectiveness.
 - **Python File Link:**
   [A/B-Testing](https://github.com/Tris123FC/Portfolio/blob/main/3_ab_test/ab-testing-new-page-conversion.ipynb)
 
-![Project Screenshot](images/screenshots.png)
+![image](https://github.com/user-attachments/assets/940b1284-614f-4181-9c8f-6e4057e8723d)
+
