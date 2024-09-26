@@ -43,7 +43,7 @@ You decide on the how short or long the moving average based on the purpose of y
 Shorter moving averages are used as indicators for short term trading, while longer moving averages is for more long term investment.
 
 
-<img width="392" alt="image" src="https://github.com/user-attachments/assets/8ca19649-f645-491f-96cc-04f6fe2739db">
+<img width="1000" alt="image" src="https://github.com/user-attachments/assets/8ca19649-f645-491f-96cc-04f6fe2739db">
 
 Looking at the moving average chart, we can see that although there was a dip in June and July the moving average has been constantly increasing over that period, suggesting a strong belief among investors in the tech industry as prices are still higher on average.
 
