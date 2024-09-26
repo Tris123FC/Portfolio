@@ -67,7 +67,7 @@ We can get a better sense of volatility by looking at the distributions of daily
 
 From the distribution charts, we can see that each stock appears in roughly normally distributed with a low variance centred around 0 with a few extreme daily returns rates as a result of market fluctuations.
 
-We see from our previous analysis thaat all companies share identical trends, a correlation analysis might offer suggestions on the relations between each stock.
+We see from our previous analysis that all companies share identical trends, a correlation analysis might offer suggestions on the relations between each stock.
 
 ## **Correlation Relations between Tech Companies**
 
@@ -88,7 +88,7 @@ We can give a risk assessment by plotting a chart of the daily returns mean (exp
 
 Overall each Tech stock is relatively low risk with low returns. This is because the stocks are well-established with a good reputation. However when comparing the four we can see that Apple is the best stock to invest in as it is low risk with better expected returns. Google on the otherhand is the the least attractive as in as it has higher risk and low expected returns.
 
-We have looked at all the current data on those four stocks, and have identified the similarities in trends, relations, and risk and exptected returns, but we have very little knowledge about how these stocks will evolve in the future. Future information would be extremely useful as it could guide us in making investment decisions. Unfortunately, it is impossible to predict the future, many people have tried and failed, but we can still give it our best shot using knowledge of machine learning.
+We have looked at all the current data on those four stocks, and have identified the similarities in trends, relations, risk and exptected returns, but we have very little knowledge about how these stocks will evolve in the future. Future information would be extremely useful as it could guide us in making investment decisions. Unfortunately, it is impossible to predict the future, many people have tried and failed, but we can still give it our best shot using knowledge of machine learning.
 
 ## **Applying Machine Learning to Stock Data**
 
@@ -97,3 +97,29 @@ Machine learning can be described as the process which computer programs go thro
 We aim to use historical data to predict closing prices, so we need some kind of regression model.
 
 I chose to use the LSTM (Long Short Term Memory) model, which is effective in predicted values based long term time-series data. This model analyses multidimensional test data in sequences, gradually reducing the complexity until it finds the best regression model.
+
+The first visulisation shows a wide view of the model predictions based on 10 years of data. We can see thatthe model did quite a good job at fitting the values with its predictions.
+
+<img width="1000" alt="image" src="https://github.com/user-attachments/assets/0fc13dd0-f065-49db-b56f-cfea36024574">
+
+Zooming in, we see that there is still a significant margin of error. This model can be used to gain an overall sense of market trends, but it should not be used to predict exact prices.
+
+<img width="478" alt="image" src="https://github.com/user-attachments/assets/00ea1e8e-1216-43fb-9047-25fdcab6557b">
+
+## **Summary**
+
+From our analysis of some of the biggest tech companies, we found similarities among them:
+- Each experience June-July market dip, likely caused by investor rotation, market speculation, and disappointing earnings.
+- There moving average prices continually increased over the one year period, suggesting a strong and steady tech sector.
+- There were ositive correlations between each stock, possibly due to common factors are influencing stock prices.
+- Overall each of the stock were Low risk with low expected return for each stock as they are considered relatively safe.
+  
+All of these finding show similarities in trends, relations, risk and exptected returns.
+
+We then proceeded to try and predict future data using machine learning and LSTM modelling.
+- The generated regression model was able to accurately predict the overall trends of the markets.
+- However, there is still a significant margin of error, which makes it unsuitable for predicting prices and making investment decisions.
+- Further refining of the model would lead to more accurate price predictions.
+
+
+
