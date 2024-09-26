@@ -24,7 +24,10 @@ For this analysis I picked four stocks: Microsoft(MSFT), Amazon(AMZN), Apple(AAP
 This chart displays the daily adjusted closing price of stocks for a period of 1 year ending in September 2024.
 The first thing we can spot is that Amazon, Google, and Apple have relatively similar stock prices, with Apple being slightly higher. In the third quarter of that year Apple had a stock price between 200 and 250, while Amazon and Google had a stock price between 150 and 200. The closeness in stock prices might suggests these companies are direct competitors for stock market investment. Microsoft, however, has a much higher stock price with an adjusted stock price almost always above 400 for the same period. This might be due to the type of product and services that each company provides. If we compore two companies, Apple is most well known for its user friendly technology products, while Microsoft is better known for its software business.
 
-One addition thing to note is the dip between  June and July. Articles from Investopedia suggest the reason might be due to a mix of investor rotation, interest rate speculation about potential interest rate cuts, and earning disappointement from underwhelming earning reports. 
+One addition thing to note is the dip between  June and July. Articles from Investopedia suggest the reason might be due to a mix of investor rotation, interest rate speculation about potential interest rate cuts, and earning disappointement from underwhelming earning reports. You can see the dip clearer in the charts below.
+
+<img width="100" alt="image" src="https://github.com/user-attachments/assets/d69f8225-862f-4836-ac48-ff3e57435626">
+
 
 Further insights into stock market performance can be found by looking at the stock market price moving average.
 
