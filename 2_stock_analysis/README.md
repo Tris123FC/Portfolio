@@ -82,4 +82,18 @@ There are positive correlations between each stock suggesting stock performance 
 
 So far we have identified similar trends in the stocks, and we have identified strong positive correlations between each stocks. Would these similarities be releflected in the the risk attributed to each stock?
 
+We can give a risk assessment by plotting a chart of the daily returns mean (expected returns) and standard deviation (risk).
+
 <img width="1000" alt="image" src="https://github.com/user-attachments/assets/5ae2c64c-f8ba-495a-9454-4aa6dd012d27">
+
+Overall each Tech stock is relatively low risk with low returns. This is because the stocks are well-established with a good reputation. However when comparing the four we can see that Apple is the best stock to invest in as it is low risk with better expected returns. Google on the otherhand is the the least attractive as in as it has higher risk and low expected returns.
+
+We have looked at all the current data on those four stocks, and have identified the similarities in trends, relations, and risk and exptected returns, but we have very little knowledge about how these stocks will evolve in the future. Future information would be extremely useful as it could guide us in making investment decisions. Unfortunately, it is impossible to predict the future, many people have tried and failed, but we can still give it our best shot using knowledge of machine learning.
+
+## **Applying Machine Learning to Stock Data**
+
+Machine learning can be described as the process which computer programs go through to learn how to process data to hopefully produce a correct ouput. It involves a whole lot of Maths functions and a huge variety of algorithms to pick from, but in simple terms, the idea of machine learning is to minimise a loss function which represents the difference between the actual value and the predicted  value. Luckily for us, we can skip the Math and algorithm parts of applying machine learning, as frameworks have already been established and they are freely available to use. For this section we will use Keras, a framewwork developed by programmers to faciliate machine learning applications.
+
+We aim to use historical data to predict closing prices, so we need some kind of regression model.
+
+I chose to use the LSTM (Long Short Term Memory) model, which is effective in predicted values based long term time-series data. This model analyses multidimensional test data in sequences, gradually reducing the complexity until it finds the best regression model.
