@@ -22,7 +22,7 @@ Homelessness is a pressing social issue, and I wanted to understand how governme
 
 
 
-## **Homlessness Rates Across England**
+## **Topic Introduction**
 
 With a new Labour Party government recently elected, building homes is at the top of the agenda as property prices and living costs skyrocket,
 all of this is in an effort to reduce purchase and rental costs with intent to alleviate the burden of English residents. Below are two charts which show how estimates of average house prices
