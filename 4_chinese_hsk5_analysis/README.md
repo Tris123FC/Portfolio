@@ -14,7 +14,7 @@ Understanding and mastering the vocabulary for the HSK5 (Hànyǔ Shuǐpíng Kǎo
 
 
 ## Project Snapshot
-![Project Screenshot](images/dashboard.png)
+<img width="1500" alt="image" src="https://github.com/user-attachments/assets/2bf7c9c7-6fce-40dd-be35-2c713a21059f">
 
 ## Topic Introduction
 
