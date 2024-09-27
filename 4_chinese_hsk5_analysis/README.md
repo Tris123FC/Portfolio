@@ -32,7 +32,7 @@ Books increase in difficulty, only requiring learners to study 150 characters at
 
 This is the reason for my analysis: I want to decypher the new word vocabulary in the HSK5 books to find trends and patterns which might assist learners who are also at the textbook stage.
 
-## Preperation Methods
+## Analysis Process
 
 Below you will find a diagram which gives an overview of the process:
 
@@ -41,9 +41,9 @@ Below you will find a diagram which gives an overview of the process:
 **Step 1:** Identifying the Data Source:
 
 We need a reference for the HSK5 vocabulary list and a source of texts for Chinese learners seperated by proficiency level.
-The reference for the HSK5 vocabulary list was easy to find, and can be asscessed from this [link](https://mandarinbean.com/new-hsk-5-word-list/).
+The reference for the HSK5 vocabulary list was easy to find, and can be asscessed from [mandarinbean.com](https://mandarinbean.com/new-hsk-5-word-list/).
 
-After researching a comparing websites, I assessed the best website for data collection was [hskreading.com](https://hskreading.com). The chosen website possessed over 100 texts seperated by levels from beginner, to advanced.
+After researching and comparing websites, I assessed the best website for data collection was [hskreading.com](https://hskreading.com). The chosen website possessed over 100 texts seperated by levels from beginner, to advanced.
 
 **Step 2:** Gathering the data:
 
@@ -53,7 +53,9 @@ Due to the quantity of texts and the amount of characters involved. The only way
 
 After running the program to count the occurences of vocabulary words, quikly comparing the data in the Excel and Word documents proved that the data was valid and reliable. Looking at the quantity of characters in the text we gathered, I decided that the amount of data was sufficient for a basic analysis of character occurences in texts.
 
-The next step involved create a data table.
+**Step 4** Reading the data:
+
+We have gathered the data and organised it into table format. Now comes the fun part, visualising and intepreting data.
 
 
 
