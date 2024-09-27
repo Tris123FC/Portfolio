@@ -23,5 +23,3 @@
 
 
 ## 5. Analysis of Water Access
-
-**Link to Project:**  [Analysis of Ad Media Streams](https://github.com/Tris123FC/Portfolio/blob/main/6_ad_analysis/data_exploration.ipynb)
