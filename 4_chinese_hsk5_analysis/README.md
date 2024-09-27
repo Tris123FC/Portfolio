@@ -85,6 +85,15 @@ How do word occurences change as we progress through levels of difficulties?
 
 <img width="1500" alt="image" src="https://github.com/user-attachments/assets/aa714a54-6d86-4a87-8040-253c05a7469c">
 
+From the bar chart, we can see osberve there is an inverse relationship between levels. As we switch from intermediate to advanced texts, the frequency of these Chinese characters decreases or increases depending on their complexity. This can be seen a natural phenomenon of language progression, as we grow older, we remove the simple words we use as a child from our lingo and add more sophisticated words to try and impress our friends (it doesn't matter if we understand the meaning or not. As we progress through the level, we stop using the basic vocabulary we learning in the previous texts and start using more complicated words.
+
+**Summary of our finding:**
+
+- The data was able to offer us quick insight on the most occuring words in intermediate and advanced texts. The table can provide guidance on phonetic pronunciation and English meaning.
+
+- Over 70% of the vocabulary list never occured in the nearly 80 texts which we analysed. This trend can be seen as normal languages hold a huge number of words which people rarely use.
+
+- There is an inverse relationship between levels of difficulty and word occurence. As people get more adept at their language, they use more complex words over the language that they used previously.
 
 
 
