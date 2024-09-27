@@ -83,7 +83,8 @@ This is no surprise, as we think about English and all of the words they we do n
 
 How do word occurences change as we progress through levels of difficulties?
 
-<img width="1500" alt="image" src="https://github.com/user-attachments/assets/0d3fae44-4b93-4112-a077-cb249d313cd9">
+<img width="1500" alt="image" src="https://github.com/user-attachments/assets/aa714a54-6d86-4a87-8040-253c05a7469c">
+
 
 
 
