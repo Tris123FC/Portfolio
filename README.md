@@ -14,6 +14,7 @@
 **Motivation:** Conversion rates are crucial for optimizing user engagement and achieving business goals. This project involved conducting an A/B test to evaluate whether there was a significant difference in conversion rates between two different landing pages. The goal was to determine which page design led to higher user conversions and to provide data-driven recommendations for improving page effectiveness.
 
 **Link to Project:** [A/B Test on Landing Page Conversion Rates](https://github.com/Tris123FC/Portfolio/blob/main/3_ab_test/README.md)
+
 ## 4. Analysis of HSK5 Target Vocabulary Frequency in Intermediate / Advanced Texts
 
 **Motivation:** Understanding and mastering the vocabulary for the HSK5 (Hànyǔ Shuǐpíng Kǎoshì Level 5) Chinese proficiency exam is crucial for learners aiming to reach advanced language skills. This analysis involved examining the target vocabulary of the HSK5 level and assessing their frequency in both intermediate and advanced texts. By analyzing the occurrence of these words in different text complexities, the project aimed to uncover trends in vocabulary usage, determine which words are most critical for achieving fluency, and provide insights for more effective language learning strategies. The goal was to guide learners and educators in optimizing study plans and ensuring better preparation for real-world language use.
