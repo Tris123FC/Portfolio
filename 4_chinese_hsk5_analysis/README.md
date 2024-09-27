@@ -4,11 +4,12 @@
 Understanding and mastering the vocabulary for the HSK5 (Hànyǔ Shuǐpíng Kǎoshì Level 5) Chinese proficiency exam is crucial for learners aiming to reach advanced language skills. This analysis involved examining the target vocabulary of the HSK5 level and assessing their frequency in both intermediate and advanced texts. By analyzing the occurrence of these words in different levels of difficulty, the project aimed to uncover trends in vocabulary usage, determine which words are most critical for achieving fluency, and provide insights for more effective language learning strategies. The goal was to guide learners and educators in optimizing study plans and ensuring better preparation for real-world language use.
 
 **Data Source:**
+
 [Tableau - Chinese Character Analysis](https://public.tableau.com/app/profile/tristan.cross/viz/AnAnalysisofHSK5CharacterFrequencyinIntermediatetoAdvancedText/Dashboard1#1)
 
 [Scrapped Website - Level Reading Webpage](https://hskreading.com)
 
-[HSK5 Vocabulary List](https://mandarinbean.com/new-hsk-5-word-list/)
+[HSK5 - Vocabulary List](https://mandarinbean.com/new-hsk-5-word-list/)
 
 
 
@@ -30,3 +31,6 @@ Below is a break down of the vocabulary count according to each installement:
 Books increase in difficulty, only requiring learners to study 150 characters at first, gradually increasing in difficulty until they are familiar with 2500 characters. I currently finished reading the HSK5 book, so I am supposed to know 2500 words (supposed...). The problem is that I don't, and it is because most of the time you don't use the textbook vocabulary in your conversation, or even in writing. But even though these vocabulary words aren't often seen in practice, they are essential building blocks, providing you with the foundations to study the vocabulary that you want to use to communicate with friends or business partners.
 
 This is the reason for my analysis: I want to decypher the new word vocabulary in the HSK5 books to find trends and patterns which might assist learners who are also at the textbook stage.
+
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/a920939c-0aca-4eba-bb35-288c89accfc6">
+
