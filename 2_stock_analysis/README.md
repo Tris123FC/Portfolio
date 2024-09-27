@@ -7,17 +7,17 @@ The tech industry plays a crucial role in the global economy, and I wanted to ex
 
 - **Python File Link:** [Stock Analysis](https://github.com/Tris123FC/Portfolio/blob/main/2_stock_analysis/tech-sector-analysis-2024.ipynb)
 
-## **Snapshot from project**
+## Project Snapshot
 <img width="1000" alt="image" src="https://github.com/user-attachments/assets/e2e24b53-ee51-4495-8348-5284766194cd">
 
 
-## **Topic Introduction**
+## Topic Introduction
 
 We all hear about the the stock market from time to time, whether we like it or not, especially when things turn to the red, always causing a feeling of dread as the news coverage switches towards the financial coverage of the day as, let's face it, it is never good news.A constant cycle of of peaks and troughs lead by investor sentiment and market speculation. Turning our lense towards the Tech-Sector financial stocks, will we see the same trends as described previously?
 
 For this analysis I picked four stocks: Microsoft(MSFT), Amazon(AMZN), Apple(AAPL), Google(GOOG). I selected these stocks because they are all large multinational tech-companies that have branched out to offer multiple products and services.
 
-## **Closing Stock Prices of 4 Big Tech Firms:**
+## Closing Stock Prices of 4 Big Tech Firms:
 
 <img width="1000" alt="image" src="https://github.com/user-attachments/assets/36f7d004-1b09-4703-9738-9630fc0756a8">
 
