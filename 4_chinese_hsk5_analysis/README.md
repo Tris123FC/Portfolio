@@ -32,6 +32,6 @@ Books increase in difficulty, only requiring learners to study 150 characters at
 
 This is the reason for my analysis: I want to decypher the new word vocabulary in the HSK5 books to find trends and patterns which might assist learners who are also at the textbook stage.
 
-<img width="2000" alt="image" src="https://github.com/user-attachments/assets/96179de3-6d95-4dd9-a918-3501860cac2e">
+<img width="4000" alt="image" src="https://github.com/user-attachments/assets/96179de3-6d95-4dd9-a918-3501860cac2e">
 
 
