@@ -26,12 +26,12 @@ The main textbook for studying chinese language is titled HSK (Hànyǔ Shuǐpín
 
 Below is a break down of the vocabulary count according to each installement:
 
-<img width="800" alt="image" src="https://github.com/user-attachments/assets/a80514e2-5bbf-402a-9242-adfa69af28bd">
+<img width="2000" alt="image" src="https://github.com/user-attachments/assets/a80514e2-5bbf-402a-9242-adfa69af28bd">
 
 Books increase in difficulty, only requiring learners to study 150 characters at first, gradually increasing in difficulty until they are familiar with 2500 characters. I currently finished reading the HSK5 book, so I am supposed to know 2500 words (supposed...). The problem is that I don't, and it is because most of the time you don't use the textbook vocabulary in your conversation, or even in writing. But even though these vocabulary words aren't often seen in practice, they are essential building blocks, providing you with the foundations to study the vocabulary that you want to use to communicate with friends or business partners.
 
 This is the reason for my analysis: I want to decypher the new word vocabulary in the HSK5 books to find trends and patterns which might assist learners who are also at the textbook stage.
 
-<img width="1200" alt="image" src="https://github.com/user-attachments/assets/96179de3-6d95-4dd9-a918-3501860cac2e">
+<img width="2000" alt="image" src="https://github.com/user-attachments/assets/96179de3-6d95-4dd9-a918-3501860cac2e">
 
 
