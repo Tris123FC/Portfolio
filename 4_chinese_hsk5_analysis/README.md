@@ -32,7 +32,28 @@ Books increase in difficulty, only requiring learners to study 150 characters at
 
 This is the reason for my analysis: I want to decypher the new word vocabulary in the HSK5 books to find trends and patterns which might assist learners who are also at the textbook stage.
 
+## Preperation Methods
+
+Below you will find a diagram which gives an overview of the process:
+
 <img width="1500" alt="image" src="https://github.com/user-attachments/assets/a14174ee-1fd9-421d-b73f-52cba751622c">
+
+**Step 1:** Identifying the Data Source:
+
+We need a reference for the HSK5 vocabulary list and a source of texts for Chinese learners seperated by proficiency level.
+The reference for the HSK5 vocabulary list was easy to find, and can be asscessed from this [link](https://mandarinbean.com/new-hsk-5-word-list/).
+
+After researching a comparing websites, I assessed the best website for data collection was [hskreading.com](https://hskreading.com). The chosen website possessed over 100 texts seperated by levels from beginner, to advanced.
+
+**Step 2:** Gathering the data:
+
+Due to the quantity of texts and the amount of characters involved. The only way to gather the data was using programming. I created a simple scraping tools which was able to open the the sections of the website which we are interested, go through the list of texts and copy the them into a word document. This process was not ideal as the Word software would struggle with the amount of chinese text characters copied into the file, however after succesfully copying all of the texts from the website to the word file, I did not need to open the files through the software as I could access it through a simple python program. I was able to count all of the characters in the Word document that are in the HSK5 reference list and input the data into a Excel table. The result is a list of HSk5 vocabulary list which a count of their occurences in intermediate and advanced text.
+
+**Step 3** Checking the output data:
+
+After running the program to count the occurences of vocabulary words, quikly comparing the data in the Excel and Word documents proved that the data was valid and reliable. Looking at the quantity of characters in the text we gathered, I decided that the amount of data was sufficient for a basic analysis of character occurences in texts.
+
+The next step involved create a data table.
 
 
 
