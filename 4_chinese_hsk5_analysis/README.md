@@ -54,6 +54,9 @@ After running the program to count the occurences of vocabulary words, quikly co
 **Step 4** Reading the data:
 
 We have gathered the data and organised it into table format. Now comes the fun part, visualising and intepreting data.
+For this analysis I chose to use Tableau public as it provides an intuitive platform for designing charts eye-catching charts with interactive elements.
+
+<img width="1000" alt="image" src="https://github.com/user-attachments/assets/a782ec0c-b0bb-4fad-9caf-1f1651a7531d">
 
 
 
