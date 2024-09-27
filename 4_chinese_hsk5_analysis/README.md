@@ -1,9 +1,21 @@
 # Analysis of Chinese Vocabulary in the HSK5 Textbook
 
 ## Motivation:
-Understanding and mastering the vocabulary for the HSK5 (Hànyǔ Shuǐpíng Kǎoshì Level 5) Chinese proficiency exam is crucial for learners aiming to reach advanced language skills. This analysis involved examining the target vocabulary of the HSK5 level and assessing their frequency in both intermediate and advanced texts. By analyzing the occurrence of these words in different text complexities, the project aimed to uncover trends in vocabulary usage, determine which words are most critical for achieving fluency, and provide insights for more effective language learning strategies. The goal was to guide learners and educators in optimizing study plans and ensuring better preparation for real-world language use.
+Understanding and mastering the vocabulary for the HSK5 (Hànyǔ Shuǐpíng Kǎoshì Level 5) Chinese proficiency exam is crucial for learners aiming to reach advanced language skills. This analysis involved examining the target vocabulary of the HSK5 level and assessing their frequency in both intermediate and advanced texts. By analyzing the occurrence of these words in different levels of difficulty, the project aimed to uncover trends in vocabulary usage, determine which words are most critical for achieving fluency, and provide insights for more effective language learning strategies. The goal was to guide learners and educators in optimizing study plans and ensuring better preparation for real-world language use.
 
 **Tableau Link:** [Chinese Character Analysis](https://public.tableau.com/app/profile/tristan.cross/viz/AnAnalysisofHSK5CharacterFrequencyinIntermediatetoAdvancedText/Dashboard1#1)
 
 ## Project Snapshot
 ![Project Screenshot](images/dashboard.png)
+
+## Topic Introduction
+
+Language learning is a passion of mine as it is for many other. There is nothing more satisfying than reaching a level where you are able to communicate with native speakers, and this is true for every language, as you suddenly feel engrossed in the culture surrounding the language. This reminds of a time when I was in the back of a Chinese taxi, and the driver started to ask me all of these questions. Chinese taxi drivers are notoriously known for their excessive friendly nature: if you are able to say "Hello" in Chinese, they will praise you for your authentic level of Chinese so you often just nod and smile as they keep talking to you , but after 3 years of studying Chinese intensely, when the driver started talking to me, and I was able to respond back, that was probably one of my proudest moments. Unfortunately, to get to this level, a great amount of studying is needed, and the most annoying part of learning a language, is studying the textbook.
+
+## The Textbook
+
+The main textbook for studying chinese language is titled HSK (Hànyǔ Shuǐpíng Kǎoshì) or in English, Chinese Level Test. It comes in six installements, from HSK1 to HSK6. 
+
+Below is a break down of the vocabulary count according to each installement:
+
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/a80514e2-5bbf-402a-9242-adfa69af28bd">
