@@ -49,7 +49,7 @@ Due to the quantity of texts and the amount of characters involved. The only way
 
 **Step 3** Checking the output data:
 
-After running the program to count the occurences of vocabulary words, quikly comparing the data in the Excel and Word documents proved that the data was valid and reliable. Looking at the quantity of characters in the text we gathered, I decided that the amount of data was sufficient for a basic analysis of character occurences in texts.
+After running the program to count the occurences of vocabulary words, quikly comparing the data in the Excel and Word documents proved that the data was valid and reliable. Looking at the quantity of characters in the text we gathered, I decided that the amount of data was sufficient for a basic analysis of character occurences in texts (analysed nearly 80 text with approximately 6000 characters).
 
 **Step 4** Reading the data:
 
@@ -57,6 +57,19 @@ We have gathered the data and organised it into table format. Now comes the fun 
 For this analysis I chose to use Tableau public as it provides an intuitive platform for designing charts eye-catching charts with interactive elements.
 
 <img width="1500" alt="image" src="https://github.com/user-attachments/assets/a782ec0c-b0bb-4fad-9caf-1f1651a7531d">
+
+This bubble park chart provides a quick glimpse at the most occuring HSK5 characters in intermediate to advanced text.
+By hovering the mouse over the circles in the chart, we can see the Chinese character, it's phonetic sound, the English translation and the number of occurences found.
+Beside the chart is a small table which provides summary statistics on the scale of our analysis.
+
+One thing to notice is that of the 1000 characters we researched in our HSK5 list, maybe only 10% of the characters.
+
+Below is a table that checks the of instances where a character got 0 occurences, 1  occurence, 2 occurences and so on:
+
+<img width="1500" alt="image" src="https://github.com/user-attachments/assets/acc1418a-be8f-4aef-aafd-059abf6931ae">
+
+
+we can see that of that 70% of the words in our HSK5 list had 0 occurences in nearly 80 texts, 13% of words had only 1 occurence, and as we go on and on, the probability of words having more than 5 occurences becomes less than 1%.
 
 
 
