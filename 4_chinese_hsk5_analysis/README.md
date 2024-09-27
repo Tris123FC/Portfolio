@@ -44,22 +44,27 @@ The reference for the HSK5 vocabulary list was easy to find, and can be asscesse
 
 After researching and comparing websites, I assessed the best website for data collection was [hskreading.com](https://hskreading.com). The chosen website possessed over 100 texts seperated by levels from beginner, to advanced.
 
-**Step 2:** Gathering the data:
+**Step 2: Gathering the data:**
 
 Due to the quantity of texts and the amount of characters involved. The only way to gather the data was using programming. I created a simple scraping tools which was able to open the the sections of the website which we are interested, go through the list of texts and copy the them into a word document. This process was not ideal as the Word software would struggle with the amount of chinese text characters copied into the file, however after succesfully copying all of the texts from the website to the word file, I did not need to open the files through the software as I could access it through a simple python program. I was able to count all of the characters in the Word document that are in the HSK5 reference list and input the data into a Excel table. The result is a list of HSk5 vocabulary list which a count of their occurences in intermediate and advanced text.
 
-**Step 3** Checking the output data:
+**Step 3: Checking the output data:**
 
 After running the program to count the occurences of vocabulary words, quikly comparing the data in the Excel and Word documents proved that the data was valid and reliable. Looking at the quantity of characters in the text we gathered, I decided that the amount of data was sufficient for a basic analysis of character occurences in texts (analysed nearly 80 text with approximately 6000 characters).
 
-**Step 4** Reading the data:
+**Step 4: Reading the data:**
 
 We have gathered the data and organised it into table format. Now comes the fun part, visualising and intepreting data.
 For this analysis I chose to use Tableau public as it provides an intuitive platform for designing charts eye-catching charts with interactive elements.
 
+## Exploring Data Through Visualisation
+
+**Analysing Word Frequency in Text** 
+
+Below is a bubble park chart provides a quick glimpse at the most occuring HSK5 characters in intermediate to advanced text.
+
 <img width="1500" alt="image" src="https://github.com/user-attachments/assets/a782ec0c-b0bb-4fad-9caf-1f1651a7531d">
 
-This bubble park chart provides a quick glimpse at the most occuring HSK5 characters in intermediate to advanced text.
 By hovering the mouse over the circles in the chart, we can see the Chinese character, it's phonetic sound, the English translation and the number of occurences found.
 Beside the chart is a small table which provides summary statistics on the scale of our analysis.
 
@@ -70,7 +75,23 @@ Below is a table that checks the of instances where a character got 0 occurences
 <img width="1500" alt="image" src="https://github.com/user-attachments/assets/acc1418a-be8f-4aef-aafd-059abf6931ae">
 
 
-we can see that of that 70% of the words in our HSK5 list had 0 occurences in nearly 80 texts, 13% of words had only 1 occurence, and as we go on and on, the probability of words having more than 5 occurences becomes less than 1%.
+We can see that of that 70% of the words in our HSK5 list had 0 occurences in nearly 80 texts, 13% of words had only 1 occurence, and as we go on and on, the probability of words having more than 5 occurences becomes less than 1%.
+
+This is no surprise, as we think about English and all of the words they we do not use, the same is true for Chinese and maybe more so because of the vast amount of characters in its language. According to the CLI institution for Chinese language, there are well over 100,000 different characters, with 2,500 characters commonly used. Quick question to the reader: how many English words do you estimate you use everyday?
+
+**Comparing Intermediate and Advanced Texts**
+
+How do word occurences change as we progress through levels of difficulties?
+
+<img width="1500" alt="image" src="https://github.com/user-attachments/assets/0d3fae44-4b93-4112-a077-cb249d313cd9">
+
+
+
+
+
+
+
+
 
 
 
