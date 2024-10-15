@@ -1,7 +1,2 @@
 
-*.ipynb linguist-documentation
-
 *.py linguist-language=Python
-
-*.java linguist-language=Java
-*.js linguist-language=JavaScript
