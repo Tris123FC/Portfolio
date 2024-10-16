@@ -13,6 +13,8 @@
 
 **Link to Project:** [Analyses of Tech Firms' Stock Market Stock Prices](https://github.com/Tris123FC/Portfolio/blob/main/2_stock_analysis/README.md)
 
+<img width="1000" alt="image" src="https://github.com/user-attachments/assets/e2e24b53-ee51-4495-8348-5284766194cd">
+
 ## 3. A/B Test on Landing Page Conversion Rates
 
 **Motivation:** Conversion rates are crucial for optimizing user engagement and achieving business goals. This project involved conducting an A/B test to evaluate whether there was a significant difference in conversion rates between two different landing pages. The goal was to determine which page design led to higher user conversions and to provide data-driven recommendations for improving page effectiveness.
