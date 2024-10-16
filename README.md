@@ -21,7 +21,7 @@
 
 **Link to Project:** [A/B Test on Landing Page Conversion Rates](https://github.com/Tris123FC/Portfolio/blob/main/3_ab_test/README.md)
 
-<img width="1000" alt="image" src="https://github.com/user-attachments/assets/940b1284-614f-4181-9c8f-6e4057e8723d"><img width="500" alt="image" src="https://github.com/user-attachments/assets/0ec4966c-0448-49b3-91fe-4f8d8d87fb6d">
+<img width="1000" alt="image" src="https://github.com/user-attachments/assets/940b1284-614f-4181-9c8f-6e4057e8723d">
 
 ## 4. Analysis of HSK5 Target Vocabulary Frequency in Intermediate / Advanced Texts
 
